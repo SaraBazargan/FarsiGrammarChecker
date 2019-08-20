@@ -1,0 +1,103 @@
+Python 3.4.3 (v3.4.3:9b73f1c3e601, Feb 24 2015, 22:43:06) [MSC v.1600 32 bit (Intel)] on win32
+Type "copyright", "credits" or "license()" for more information.
+>>> ================================ RESTART ================================
+>>> 
+len unigram 350
+len GSP unigrams 111
+len fd_bi 9604
+len GSP bigrams 402
+len fd_tri 57938
+len GSP trigrams 527
+len fd_four 174625
+len GSP fourgrams 245
+len fd_five 341623
+len GSP fivegrams 143
+len fd_six 496139
+len GSP sixgrams 18
+
+len fd_seven 591607
+len GSP sevengrams 8
+
+There is a grammatical error in sentence number 1 :
+[('N,SING,PR', 'P', 'N,SING,LOC', 'RA', 'V,PA,SIM,POS,3', 'DELM')]
+
+
+There is a grammatical error in sentence number 2 :
+[[('PRO,personal,PL,1', 'ADJ,SIM', 'V,PA,SIM,POS,5', 'DELM')]]
+
+
+There is a grammatical error in sentence number 3 :
+[[('V,PRS,POS,1', 'RA', 'N,SING,COM', 'DELM')]]
+
+
+There is a grammatical error in sentence number 4 :
+[('RA', 'PRO,DEMO,PL', 'V,PA,SIM,POS,3', 'P', 'N,SING,GENR,SIM', 'DELM')]
+
+
+There is a grammatical error in sentence number 5 :
+[('N,PL', 'ADV,SIM', 'P', 'N,SING', 'V,SUB', 'DELM')]
+
+
+There is a grammatical error in sentence number 6 :
+[[('V,PA,SIM,POS,3', 'N,SING,PR,GEN', 'DELM')]]
+
+
+There is a grammatical error in sentence number 7 :
+[[('PRO,personal,SING,3', 'N,SING,LOC', 'P', 'V,PA,SIM,POS,3', 'DELM')]]
+
+
+There is a grammatical error in sentence number 8 :
+[[('N,SING,PR', 'P', 'N,SING,LOC', 'V,SUB,POS,3', 'DELM')]]
+
+
+There is a grammatical error in sentence number 9 :
+[[('N,SING', 'V,PRE,SIM', 'ADJ,SIM', 'DELM')]]
+
+
+There is a grammatical error in sentence number 10 :
+[[('ADJ,SIM', 'N,SING,COM', 'V,PRE,SIM', 'DELM')]]
+
+
+There is a grammatical error in sentence number 11 :
+[[('P', 'N,SING,COM', 'PRO,personal,PL,3', 'V,PA,SIM,POS,3', 'DELM')]]
+
+
+There is a grammatical error in sentence number 12 :
+[('N,SING,COM,AFF,1', 'RA', 'N,SING,COM', 'P', 'N,SING,COM,AFF,3', 'V,PA,SIM,POS,3')]
+
+
+There is a grammatical error in sentence number 13 :
+[('N,SING', 'ADJ,SIM', 'N,SING,COM', 'RA', 'V,PA,SIM,POS,3', 'DELM')]
+
+
+There is a grammatical error in sentence number 14 :
+[('N,SING,COM', 'P', 'PRO,personal,SING,1', 'ADJ,SIM', 'V,PRE,SIM', 'ADJ,INO')]
+
+
+There is a grammatical error in sentence number 15 :
+[('N,SING,COM', 'N,SING,COM', 'RA', 'V,PA,SIM,POS,3', 'N,SING,COM', 'DELM')]
+
+
+There is a grammatical error in sentence number 16 :
+[('PRO,DEMO,PL', 'ADJ,CMPR', 'N,SING,LOC', 'RA', 'V,PA,SIM,POS,6', 'DELM')]
+
+
+There is a grammatical error in sentence number 17 :
+[[('N,SING,COM', 'V,PRE', 'N,SING,COM', 'DELM')]]
+
+
+There is a grammatical error in sentence number 18 :
+[[('N,SING,COM', 'P', 'V,PRS,POS,3', 'DELM')]]
+
+
+There is a grammatical error in sentence number 19 :
+[('N,SING,PR', 'P', 'N,SING,LOC,GEN', 'P', 'N,SING,LOC,GEN', 'V,PRS,POS,3')]
+
+
+There is a grammatical error in sentence number 20 :
+[[('N,SING,PR', 'ADJ,SIM', 'DELM')]]
+
+
+Recall =  80.95238095238095 %
+Precision =  73.91304347826086 %
+>>> 

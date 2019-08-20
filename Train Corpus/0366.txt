@@ -1,0 +1,214 @@
+Sub * SUBJ SUBJ !Ќн«  жЌ‘!
+W * N N,SING,LOC,PR  е—«д
+W * DELM DELM №
+W * N N,SING,COM,GEN ж«Ќѕ
+W * ADJ ADJ,SIM,GEN г—я“н
+W * N N,SING,COM ќ»—
+W * DELM DELM :
+W * P P »е
+W * N N,SING,COM,GEN Р“«—‘
+W * N N,SING,COM,GEN ‘»яе
+W * ADJ ADJ,SIM,GEN  бжн“нждн
+W * N N,SING,LOC,PR Ннд
+W * DELM DELM °
+W * N N,SING,COM,GEN ”«“г«д
+W * ADJ ADJ,SIM,GEN ће«дн
+W * N N,SING,COM Ќг«н 
+W * P P «“
+W * N N,SING,COM,GEN Ќн« 
+W * ADJ ADJ,SIM жЌ‘
+W * N N,SING,COM «Џб«г
+W * V V,PA,SIM,POS,3 я—ѕ
+W * DELM DELM °
+W * N N,SING,GR,GEN ћгЏн 
+W * N N,PL,COM,GEN г«ен«д
+W * ADJ ADJ,SIM ¬“«ѕ
+W * ADV ADV,GENR,TIME ег «яджд
+W * P P »е
+W * ADJ ADJ,SUP Б«ннд  —нд
+W * N N,SING,COM,GEN ”ЎЌ
+W * PRO PRO,R,XOD ќжѕ
+W * ADJ ADJ,INO —”нѕе
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * DET DET «нд
+W * N N,SING,COM,GEN ”«“г«д
+W * ADJ ADJ,SIM ће«дн
+W * ADJ ADJ,SIM гЏ ёѕ
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * ADJ ADJ,SUP »“—Р —нд
+W * N N,SING,COM  еѕнѕ
+W * P P,GEN »—«н
+W * N N,PL,COM,GEN г«ен«д
+W * ADJ ADJ,SIM ¬“«ѕ
+W * DELM DELM °
+W * N N,SING,COM,INDF Ржде «н
+W * P P «“
+W * DET DET «нд
+W * N N,PL,COM г«ен«д
+W * V V,PRE,SIM «” 
+W * CON CON яе
+W * P P »е
+W * N N,SING,COM,GEN Ўж—
+W * ADJ ADJ,SIM Од нян
+W * N N,SING,COM «’б«Ќ
+W * V V,PA,NAR,POS,6 ‘ѕе «дѕ
+W * DELM DELM .
+W * DET DET «нд
+W * N N,SING,COM,GEN ”«“г«д
+W * ADJ ADJ,SIM ће«дн
+W * P P «“
+W * N N,PL,LOC,GEN я‘ж—е«н
+W * ADJ ADJ,SIM,GEN гќ бЁ
+W * N N,SING,COM ће«д
+W * CON CON ж
+W * N N,PL,COM,GEN ’д«нЏ
+W * N N,SING,COM г«енРн—н
+W * N N,SING,COM ѕ—ќж«” 
+W * ADJ ADJ,INO я—ѕе
+W * V V,PRE,SIM «” 
+W * P P,GEN »—«н
+W * N N,SING,COM ћбжРн—н
+W * P P «“
+W * N N,SING,COM,GEN «дё—«÷
+W * N N,SING,COM,GEN д”б
+W * N N,PL,COM,GEN г«ен«д
+W * ADJ ADJ,SIM ¬“«ѕ
+W * P P »е
+W * N N,SING,COM,GEN Ўж—
+W * ADJ ADJ,SIM ћѕн
+W * N N,SING,COM «ёѕ«г
+W * V V,SUB,POS,6 яддѕ
+W * DELM DELM .
+W * P P »—
+W * N N,SING,COM,GEN «”«”
+W * N N,SING,COM,GEN Р“«—‘
+W * DET DET «нд
+W * N N,SING,COM,GEN ”«“г«д
+W * ADJ ADJ,SIM ће«дн
+W * DELM DELM °
+W * N N,PL,COM,GEN г«ен«д
+W * ADJ ADJ,SIM,GEN ¬“«ѕ
+W * ADJ ADJ,SIM ѕнР—
+W * P P ѕ—
+W * ADJ ADJ,SIM »н‘
+W * P P «“
+W * N N,SING,NUM ”н’ѕ
+W * N N,SING,LOC,GEN —жѕќ«де
+W * N N,SING,LOC,PR «—жБ«
+W * CON CON ж
+W * N N,SING,DIR,GEN ‘г«б
+W * N N,SING,LOC,PR ¬г—ня«
+W * ADJ ADJ,INO ѕнѕе
+W * V V,PRS,NEG,6 дгн ‘ждѕ
+W * CON CON ж
+W * QUA QUA »”н«—н
+W * P P «“
+W * N N,PL,COM,GEN ћгЏн е«н
+W * N N,PL,COM,GEN г«ен«д
+W * ADJ ADJ,SIM,GEN ¬“«ѕ
+W * ADJ ADJ,SIM жЌ‘н
+W * P P ѕ—
+W * N N,SING,COM,GEN «ён«дж”
+W * N N,SING,LOC,PR «Ўб”
+W * P P ѕ—
+W * N N,SING,COM,GEN гЏ—÷
+W * N N,SING,COM ќЎ—
+W * ADJ ADJ,INO »жѕе
+W * CON CON ж
+W * ADV ADV,GENR,SIM Ќ н
+W * ADJ ADJ,SIM д«»жѕ
+W * V V,PA,NAR,POS,6 ‘ѕе «дѕ
+W * DELM DELM .
+W * N N,SING,COM,GEN ”«“г«д
+W * ADJ ADJ,SIM,GEN ће«дн
+W * N N,SING,COM Ќг«н 
+W * P P «“
+W * N N,SING,COM,GEN Ќн« 
+W * ADJ ADJ,SIM жЌ‘
+W * V V,PRS,POS,3 гн Ржнѕ
+W * DELM DELM °
+W * N N,PL,COM,GEN «дж«Џ
+W * N N,PL,COM »нг«—не«
+W * P P ѕ—
+W * N N,SING,COM,GEN гн«д
+W * N N,PL,COM,GEN г«ен«д
+W * ADJ ADJ,SIM,INDF ¬“«ѕн
+W * CON CON яе
+W * N N,SING,COM,GEN «’б«Ќ
+W * ADJ ADJ,SIM Од нян
+W * V V,PA,NAR,POS,6 ‘ѕе «дѕ
+W * N N,SING,COM ‘нжЏ
+W * V V,PRS,POS,3 гн н«»ѕ
+W * CON CON ж
+W * DET DET «нд
+W * N N,PL,COM »нг«—не«
+W * V V,PRS,POS,6 гн  ж«ддѕ
+W * P P »е
+W * N N,PL,COM,GEN г«ен«д
+W * ADJ ADJ,SIM,GEN ¬“«ѕ
+W * ADJ ADJ,SIM гЏгжбн
+W * CON CON дн“
+W * N N,SING,COM «д ё«б
+W * V V,SUB,POS,6 н«»дѕ
+W * CON CON ж
+W * N N,PL,COM,GEN ќ”«—« 
+W * ADJ ADJ,SIM,INDF ‘ѕнѕн
+W * P P »—
+W * N N,SING,COM ћ«н
+W * V V,SUB,NEG,6 »Р–«—дѕ
+W * DELM DELM .
+W * N N,PL,LOC,GEN я‘ж—е«н
+W * N N,SING,COM,GEN Џ÷ж
+W * N N,SING,COM,GEN ”«“г«д
+W * N N,SING,COM ЌЁ«ў 
+W * P P «“
+W * N N,PL,COM,GEN г«ен«д
+W * ADJ ADJ,SIM,GEN ¬“«ѕ
+W * N N,SING,COM,GEN «ён«дж”
+W * N N,SING,LOC,PR,GEN «Ўб”
+W * ADJ ADJ,SIM ‘г«бн
+W * N N,SING,COM ё’ѕ
+W * V V,PRS,POS,6 ѕ«—дѕ
+W * P P ѕ—
+W * N N,SING,LOC,PR я«д«ѕ«
+W * N N,SING,COM,GEN  ‘янб
+W * N N,SING,COM ћб”е
+W * V V,SUB,POS,6 ѕедѕ
+W * CON CON ж
+W * N N,SING,COM,GEN ж÷Џн 
+W * ADJ ADJ,SIM,GEN ядждн
+W * N N,PL,COM,GEN г«ен«д
+W * ADJ ADJ,SIM ¬“«ѕ
+W * CON CON ж
+W * N N,PL,COM,GEN ‘нже е«н
+W * N N,SING,COM ћбжРн—н
+W * P P «“
+W * N N,SING,COM,GEN д«»жѕн
+W * PRO PRO,DEMO,PL ¬де«
+W * RA RA —«
+W * N N,SING,COM,GEN гж—ѕ
+W * N N,SING,COM »——”н
+W * N N,SING,COM ё—«—
+W * V V,SUB,POS,6 ѕедѕ
+W * DELM DELM .
+W * N N,PL,LOC,GEN я‘ж—е«н
+W * N N,SING,COM,GEN Џ÷ж
+W * DET DET «нд
+W * N N,SING,COM ”«“г«д
+W * RA RA —«
+W * N N,SING,LOC,PR —ж”не
+W * DELM DELM °
+W * N N,SING,LOC,PR д—жО
+W * DELM DELM °
+W * N N,SING,LOC,PR «н”бдѕ
+W * DELM DELM °
+W * N N,SING,LOC,PR ¬г—ня«
+W * CON CON ж
+W * N N,SING,NUM Ндѕ
+W * N N,SING,LOC,GEN я‘ж—
+W * ADJ ADJ,SIM ѕнР—
+W * N N,SING,COM  ‘янб
+W * V V,PRS,POS,6 гн ѕедѕ
+W * DELM DELM .

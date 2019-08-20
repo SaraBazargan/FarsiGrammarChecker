@@ -1,0 +1,3200 @@
+Sub * SUBJ SUBJ !›—Â‰êÌ!
+W * N N,SING,COM,GEN ›—Â‰ê
+W * N N,SING,PR  ⁄«Ê‰
+W * N N,SING,COM,GEN ‰‘—ÌÂ
+W * ADJ ADJ,SIM,GEN « Õ«œÌ
+W * N N,PL,COM,GEN  ⁄«Ê‰ÌÂ«Ì
+W * N N,SING,COM,GEN „’—›
+W * N N,PL,COM,GEN ›—Â‰êÌ«‰
+W * N N,SING,LOC,PR «Ì—«‰
+W * DELM DELM ‹
+W * N N,SING,COM,GEN ‘„«—Â
+W * N N,SING,NUM 81
+W * DELM DELM ‹
+W * N N,SING,COM ‰‘«‰Ì
+W * DELM DELM :
+W * N N,SING,LOC,PR  Â—«‰
+W * DELM DELM °
+W * N N,SING,COM,GEN ’‰œÊﬁ
+W * ADJ ADJ,SIM,GEN Å” Ì
+W * N N,SING,NUM 766
+W * DELM DELM ‹
+W * N N,SING,NUM 54131
+W * DELM DELM /
+W * N N,SING,COM  ·›‰
+W * DELM DELM :
+W * N N,SING,NUM 8641646
+W * DELM DELM -
+W * N N,SING,COM ›«ﬂ”
+W * DELM DELM :
+W * N N,SING,NUM 7269146
+W * DELM DELM .
+W * N N,SING,COM,GEN ›Â—” 
+W * QUA QUA »—ŒÌ
+W * N N,PL,COM „ÿ«·»
+W * DELM DELM :
+W * N N,PL,COM,GEN  »·Ì€« 
+W * N N,SING,COM »«“—ê«‰Ì
+W * P P œ—
+W * N N,SING,COM,GEN ⁄—’ÂÒ
+W * N N,PL,COM —ﬁ«» Â«
+W * DELM DELM ‹
+W * N N,SING,COM,GEN »——”Ì
+W * ADJ ADJ,SIM,GEN  ÿ»ÌﬁÌ
+W * N N,PL,COM,GEN ‘—ﬂ Â«Ì
+W * ADJ ADJ,SIM  ⁄«Ê‰Ì
+W * CON CON Ê
+W * N N,PL,COM,GEN «‰Ê«⁄
+W * N N,PL,COM,GEN ‘—ﬂ Â«Ì
+W * ADJ ADJ,SIM  Ã«—Ì
+W * DELM DELM ‹
+W * N N,SING,COM „œÌ—Ì 
+W * CON CON Ì⁄‰Ì
+W * N N,SING,COM,GEN „œÌ—Ì 
+W * N N,SING,COM “„«‰
+W * DELM DELM ‹
+W * N N,PL,COM,GEN œÌœê«ÂÂ«Ì
+W * ADJ ADJ,SIM „—»Êÿ
+W * P P »Â
+W * N N,SING,COM,GEN  ﬂ‰Ê·ÊéÌ
+W * ADJ ADJ,SIM „‰«”»
+W * DELM DELM ‹
+W * P P »«
+W * N N,SING,COM,GEN ﬂ«—‰«„ÂÒ
+W * N N,PL,COM,GEN ›—“‰œ«‰
+W * PRO PRO,R,XOD ŒÊœ
+W * ADV ADV,I çêÊ‰Â
+W * N N,SING,COM »—ŒÊ—œ
+W * V V,SUB,POS,4 ﬂ‰Ì„
+W * DELM DELM ø
+W * DELM DELM .
+W * N N,SING,COM œ«œê” —
+W * DELM DELM °
+W * N N,SING,COM,GEN „«Â‰«„Â
+W * ADJ ADJ,SIM ÕﬁÊﬁÌ
+W * DELM DELM ‹
+W * N N,SING,COM,GEN ‘„«—Â
+W * ADJ ADJ,ORD «Ê·
+W * DELM DELM ‹
+W * N N,SING,COM ‰‘«‰Ì
+W * DELM DELM :
+W * N N,SING,LOC,PR  Â—«‰
+W * DELM DELM °
+W * N N,SING,COM,GEN ’‰œÊﬁ
+W * ADJ ADJ,SIM,GEN Å” Ì
+W * N N,SING,NUM 5861
+W * DELM DELM ‹
+W * N N,SING,NUM 54431
+W * DELM DELM /
+W * N N,SING,COM  ·›‰
+W * DELM DELM :
+W * N N,SING,NUM 1613276
+W * DELM DELM -
+W * N N,SING,COM ›«ﬂ”
+W * DELM DELM :
+W * N N,SING,NUM 8455076
+W * DELM DELM .
+W * N N,SING,COM,GEN ›Â—” 
+W * QUA QUA »—ŒÌ
+W * N N,PL,COM „ÿ«·»
+W * DELM DELM :
+W * N N,SING,COM,GEN ﬁÌ„Ê„ 
+W * N N,SING,COM,GEN ‘Œ’
+W * ADJ ADJ,SIM ÕﬁÊﬁÌ
+W * CON CON Ê
+W * N N,SING,COM,GEN ﬁ«‰Ê‰
+W * N N,SING,COM,GEN Ê«ê–«—Ì
+W * N N,SING,COM,GEN ﬁÌ„Ê„ 
+W * N N,PL,COM,GEN „ÕÃÊ—«‰
+W * P P,GEN  Õ 
+W * N N,SING,COM,GEN ÅÊ‘‘
+W * N N,SING,COM »Â“Ì” Ì
+W * P P »Â
+W * N N,SING,COM,GEN ”«“„«‰
+W * ADJ ADJ,SIM „–ﬂÊ—
+W * P P  «
+W * N N,SING,COM,GEN  ⁄ÌÌ‰
+W * N N,SING,COM ﬁÌ„
+W * P P,GEN  Ê”ÿ
+W * N N,SING,COM œ«œê«Â
+W * DELM DELM ‹
+W * N N,PL,COM,GEN ¬—«¡
+W * N N,SING,COM,GEN ÊÕœ 
+W * N N,SING,COM,GEN —ÊÌÂÒ
+W * N N,SING,COM,GEN œÌÊ«‰
+W * ADJ ADJ,SIM,GEN ⁄«·Ì
+W * N N,SING,LOC ﬂ‘Ê—
+W * DELM DELM ‹
+W * N N,SING,COM,GEN ﬁ«‰Ê‰
+W * N N,PL,COM,GEN —Ê«»ÿ
+W * N N,SING,COM „«·ﬂ
+W * CON CON Ê
+W * N N,SING,COM „” √Ã—
+W * DELM DELM ‹
+W * N N,SING,COM ¬‘‰«ÌÌ
+W * P P »«
+W * N N,SING,COM,GEN œ” ê«Â
+W * ADJ ADJ,SIM,GEN ﬁ÷«ÌÌ
+W * N N,SING,LOC,PR ”Ê∆œ
+W * DELM DELM ‹
+W * N N,SING,COM,GEN  ÷„Ì‰
+W * N N,SING,COM ﬂ«·«
+W * P P œ—
+W * N N,SING,COM,GEN  Ã«— 
+W * ADJ ADJ,SIM »Ì‰ «·„··
+W * DELM DELM ‹
+W * N N,SING,COM,GEN ¬ÌÌ‰
+W * N N,SING,COM,GEN œ«œ—”Ì
+W * ADJ ADJ,SIM „œ‰Ì
+W * DELM DELM .
+W * N N,PL,COM,GEN «‰Ê«⁄
+W * N N,PL,COM,GEN œ⁄«ÊÌ
+W * N N,SING,COM,GEN ⁄·„
+W * N N,SING,COM «·ﬂ —Ê‰Ìﬂ
+W * CON CON Ê
+W * N N,SING,COM ﬂ«„ÅÌÊ —
+W * DELM DELM ‹
+W * N N,SING,TIME,GEN ”«·
+W * N N,SING,NUM 32
+W * DELM DELM °
+W * N N,SING,COM,GEN ‘„«—Â
+W * N N,SING,NUM 972
+W * DELM DELM ‹
+W * N N,SING,COM ‰‘«‰Ì
+W * DELM DELM :
+W * N N,SING,LOC,PR  Â—«‰
+W * DELM DELM °
+W * N N,SING,COM,GEN ’‰œÊﬁ
+W * ADJ ADJ,SIM,GEN Å” Ì
+W * N N,SING,NUM 5161
+W * DELM DELM ‹
+W * N N,SING,NUM 59391
+W * DELM DELM /
+W * N N,SING,COM  ·›‰
+W * CON CON Ê
+W * N N,SING,COM ›«ﬂ”
+W * DELM DELM :
+W * N N,SING,NUM 9803702
+W * N N,SING,COM,GEN ›Â—” 
+W * QUA QUA »—ŒÌ
+W * N N,PL,COM „ÿ«·»
+W * DELM DELM :
+W * N N,SING,COM œÌ”ﬂ
+W * ADJ ADJ,CMPR ”—Ì⁄ —
+W * P P «“
+W * N N,SING,COM ‰—„ «›“«—
+W * DELM DELM -
+W * N N,SING,NUM 06
+W * DELM DELM ‹
+W * N N,PL,COM,GEN ﬂ«„ÅÌÊ —Â«Ì
+W * N N,SING,COM »«“”«“Ì
+W * MORP MORP,MADJ,GEN ‘œÂ
+W * ADJ ADJ,SIM œ”  œÊ„
+W * DELM DELM ‹
+W * N N,SING,COM,GEN ÿ—«ÕÌ
+W * N N,PL,COM,GEN ’›Õ« 
+W * N N,SING,COM Ê»
+W * DELM DELM ‹
+W * N N,SING,COM,GEN ‘‰«Œ 
+W * N N,PL,COM,GEN ÊÌ—Ê”Â«Ì
+W * ADJ ADJ,SIM ﬂ«„ÅÌÊ —Ì
+W * DELM DELM ‹
+W * N N,SING,COM,INDF —«ÂÌ
+W * ADJ ADJ,SIM ”—Ì⁄
+W * CON CON Ê
+W * ADJ ADJ,SIM —«Ìê«‰
+W * P P,GEN »—«Ì
+W * N N,SING,COM „Õ«›Ÿ 
+W * P P «“
+W * N N,PL,COM,GEN «ÿ·«⁄« 
+W * PRO PRO,R,XOD ŒÊœ
+W * DELM DELM ‹
+W * N N,PL,COM,GEN  —›‰œÂ«Ì
+W * ADJ ADJ,SIM «·ﬂ —Ê‰ÌﬂÌ
+W * DELM DELM ‹
+W * N N,PL,COM,GEN  —›‰œÂ«Ì
+W * ADJ ADJ,SIM ﬂ«„ÅÌÊ —Ì
+W * DELM DELM ‹
+W * N N,SING,COM,GEN »ÂÌ‰Â ”«“Ì
+W * N N,SING,COM ﬂ«„ÅÌÊ —
+W * DELM DELM .
+Sub * SUBJ SUBJ !«ﬁ ’«œÌ!
+W * N N,SING,COM œÊÌçÂ
+W * N N,SING,COM,GEN »«‰ﬂ
+W * N N,SING,LOC,PR ¬·„«‰
+W * P P »Â
+W * N N,SING,COM,GEN Â„—«Â
+W * N N,PL,COM,INDF ”‰œÌﬂ«ÌÌ
+W * P P «“
+W * N N,SING,NUM ç‰œ
+W * N N,SING,COM,GEN »«‰ﬂ
+W * ADJ ADJ,SIM œÌê—
+W * N N,SING,COM,INDF ﬁ—«—œ«œÌ
+W * P P,GEN »—«Ì
+W * N N,SING,COM,GEN  «„Ì‰
+W * N N,SING,COM,INDF «⁄ »«—Ì
+W * ADJ ADJ,SIM,GEN „⁄«œ·
+W * N N,SING,NUM 550
+W * N N,SING,NUM „Ì·ÌÊ‰
+W * N N,SING,PR ÌÊ—Ê
+W * RA RA —«
+W * P P »«
+W * N N,PL,COM,GEN ‘—ﬂ Â«Ì
+W * N N,PL,COM,GEN ’‰«Ì⁄
+W * N N,SING,COM Å —Ê‘Ì„Ì
+W * ADJ ADJ,SIM „‰⁄ﬁœ
+W * V V,PA,SIM,POS,3 ﬂ—œ
+W * DELM DELM .
+W * P P »Â
+W * N N,SING,COM,GEN ê“«—‘
+W * N N,SING,COM,GEN Ê«Õœ
+W * ADJ ADJ,SIM,GEN „—ﬂ“Ì
+W * N N,SING,COM Œ»—
+W * DELM DELM °
+W * P P «“
+W * DET DET «Ì‰
+W * N N,PL,COM  ”ÂÌ·« 
+W * P P,GEN »—«Ì
+W * N N,SING,COM,GEN  «„Ì‰
+W * ADJ ADJ,SIM,GEN „«·Ì
+W * N N,PL,COM,GEN ÿ—ÕÂ«Ì
+W * N N,SING,COM Å —Ê‘Ì„Ì
+W * P P œ—
+W * N N,SING,COM,GEN œ«Œ·
+W * N N,SING,LOC ﬂ‘Ê—
+W * CON CON Ê
+W * ADV ADV,GENR,SIM ⁄„œ «
+W * P P,GEN »—«Ì
+W * N N,PL,COM,INDF ﬁ—«—œ«œÂ«ÌÌ
+W * CON CON ﬂÂ
+W * P P »«
+W * N N,PL,COM,GEN ‘—ﬂ Â«Ì
+W * ADJ ADJ,SIM,GEN „Â‰œ”Ì
+W * ADJ ADJ,SIM «—ÊÅ«ÌÌ
+W * ADJ ADJ,SIM „‰⁄ﬁœ
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 ‘œ
+W * N N,SING,COM «” ›«œÂ
+W * V V,PRS,POS,3 „Ì ‘Êœ
+W * DELM DELM .
+W * N N,SING,COM,GEN ”«Œ «—
+W * DET DET «Ì‰
+W * N N,SING,COM ﬁ—«—œ«œ
+W * P P »—
+W * N N,SING,COM,GEN Å«ÌÂ
+W * N N,PL,COM,GEN Â„ﬂ«—ÌÂ«Ì
+W * N N,PL,COM,GEN ‘—ﬂ Â«Ì
+W * ADJ ADJ,SIM,GEN  Ã«—Ì
+W * ADJ ADJ,SIM,GEN „⁄ »—
+W * ADJ ADJ,SIM »Ì‰ «·„··Ì
+W * P P »«
+W * N N,SING,COM,GEN ‘—ﬂ 
+W * ADJ ADJ,SIM,GEN „·Ì
+W * N N,PL,COM,GEN ’‰«Ì⁄
+W * N N,SING,COM Å —Ê‘Ì„Ì
+W * N N,SING,COM ÿ—«ÕÌ
+W * ADJ ADJ,INO ‘œÂ
+W * CON CON Ê
+W * ADJ ADJ,SIM „ ﬂÌ
+W * P P »Â
+W * N N,SING,COM,GEN  ÷„Ì‰
+W * N N,PL,COM,GEN „Õ’Ê·« 
+W * ADJ ADJ,SIM,GEN ’«œ—« Ì
+W * N N,SING,COM Å —Ê‘Ì„Ì
+W * V V,PRE,SIM «” 
+W * CON CON ﬂÂ
+W * N N,SING,COM,GEN „Ê—œ
+W * N N,SING,COM  ÊÃÂ
+W * CON CON Ê
+W * ADJ ADJ,SIM,GEN ﬁ»Ê·
+W * N N,PL,COM,GEN „ƒ””« 
+W * P P,GEN  Õ 
+W * N N,SING,COM,GEN ÅÊ‘‘
+W * N N,SING,COM,GEN »Ì„Â
+W * N N,PL,LOC,GEN ﬂ‘Ê—Â«Ì
+W * ADJ ADJ,SIM «—ÊÅ«ÌÌ
+W * CON CON ‰Ì“
+W * N N,SING,COM ﬁ—«—
+W * ADJ ADJ,INO ê—› Â
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * SPEC SPEC ç‰Ì‰
+W * N N,SING,COM,INDF ”«Œ «—Ì
+W * N N,SING,COM,GEN «„ﬂ«‰
+W * N N,SING,COM,GEN  «„Ì‰
+W * N N,SING,NUM 100
+W * N N,SING,COM,GEN œ—’œ
+W * N N,PL,COM,GEN ‰Ì«“Â«Ì
+W * ADJ ADJ,SIM,GEN «—“Ì
+W * N N,PL,COM,GEN ÿ—ÕÂ«Ì
+W * N N,SING,COM ÅÌ‘ »Ì‰Ì
+W * MORP MORP,MADJ ‘œÂ
+W * RA RA —«
+W * P P œ—
+W * N N,SING,COM,GEN ç«—çÊ»
+W * DET DET «Ì‰
+W * N N,SING,COM ﬁ—«—œ«œ
+W * N N,SING,COM ›—«Â„
+W * V V,PRS,POS,3 „Ì ﬂ‰œ
+W * DELM DELM .
+W * DET DET «Ì‰
+W * N N,SING,COM ﬁ—«—œ«œ
+W * N N,SING,COM ›«Ì‰«‰”
+W * P P »«
+W * N N,SING,COM,GEN ê” —‘
+W * N N,PL,COM,GEN —Ê«»ÿ
+W * ADJ ADJ,SIM,GEN «ﬁ ’«œÌ
+W * N N,SING,COM,GEN Ã„ÂÊ—Ì
+W * ADJ ADJ,SIM,GEN «”·«„Ì
+W * N N,SING,LOC,PR «Ì—«‰
+W * CON CON Ê
+W * N N,SING,GR,GEN « Õ«œÌÂ
+W * N N,SING,LOC,PR «—ÊÅ«
+W * DELM DELM °
+W * N N,SING,COM,GEN „ÊÃ»
+W * N N,SING,COM Õ„«Ì 
+W * P P «“
+W * N N,PL,COM,GEN ’«Õ»«‰
+W * N N,PL,COM,GEN ’‰«Ì⁄
+W * ADJ ADJ,SIM,GEN ’«œ—« Ì
+W * ADJ ADJ,SIM «—ÊÅ«ÌÌ
+W * CON CON ﬂÂ
+W * P P œ—
+W * N N,SING,LOC,PR «Ì—«‰
+W * ADJ ADJ,SIM ›⁄«·
+W * V V,PRS,POS,6 Â” ‰œ
+W * DELM DELM °
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 ‘œ
+W * DELM DELM .
+W * N N,SING,COM,GEN ⁄·«ÊÂ
+W * P P »—
+W * N N,SING,COM œÊÌçÂ
+W * N N,SING,COM »«‰ﬂ
+W * DELM DELM °
+W * N N,PL,COM,GEN »«‰ﬂÂ«Ì
+W * N N,SING,COM,GEN Ã‰—«·
+W * N N,SING,LOC,PR ›—«‰”Â
+W * CON CON Ê
+W * N N,SING,NPR,GEN »Ì ”Ì «Ì
+W * N N,SING,LOC,PR «Ì «·Ì«
+W * CON CON ‰Ì“
+W * P P œ—
+W * N N,SING,COM,GEN ”‰œÌﬂ«Ì
+W * N N,SING,COM Ì«œ
+W * MORP MORP,MADJ ‘œÂ
+W * N N,SING,COM Õ÷Ê—
+W * V V,PRS,POS,6 œ«—‰œ
+W * DELM DELM .
+W * N N,SING,COM,GEN «‰⁄ﬁ«œ
+W * DET DET «Ì‰
+W * N N,SING,COM ﬁ—«—œ«œ
+W * P P »—
+W * N N,SING,COM,GEN Å«ÌÂ
+W * N N,PL,COM,GEN „‰«”»« 
+W * ADJ ADJ,SIM,GEN œÌ—Ì‰Â
+W * N N,SING,COM,GEN ‘—ﬂ 
+W * ADJ ADJ,SIM,GEN „·Ì
+W * N N,PL,COM,GEN ’‰«Ì⁄
+W * N N,SING,COM Å —Ê‘Ì„Ì
+W * CON CON Ê
+W * N N,PL,COM,GEN »«‰ﬂÂ«Ì
+W * ADJ ADJ,SIM «—ÊÅ«ÌÌ
+W * P P »Â
+W * ADJ ADJ,SIM ÊÌéÂ
+W * N N,SING,COM œÊÌçÂ
+W * N N,SING,COM,GEN »«‰ﬂ
+W * N N,SING,LOC,PR ¬·„«‰
+W * P P,GEN »—«Ì
+W * N N,SING,COM,GEN  «„Ì‰
+W * ADJ ADJ,SIM,GEN „«·Ì
+W * N N,PL,COM,GEN ÿ—ÕÂ«Ì
+W * N N,SING,COM,GEN ”—„«ÌÂ ê–«—Ì
+W * N N,SING,COM,GEN Å —Ê‘Ì„Ì
+W * N N,SING,LOC ﬂ‘Ê—
+W * P P œ—
+W * N N,SING,TIME,GEN œÂÂ
+W * ADJ ADJ,SIM ê–‘ Â
+W * ADJ ADJ,INO »ÊœÂ
+W * CON CON ﬂÂ
+W * P P,GEN ÿÌ
+W * PRO PRO,DEMO,SING ¬‰
+W * N N,SING,NUM ç‰œÌ‰
+W * N N,SING,COM,GEN ÿ—Õ
+W * ADJ ADJ,SIM,GEN „Â„
+W * N N,SING,COM Å —Ê‘Ì„Ì
+W * P P »«
+W * N N,SING,COM,GEN «—“‘
+W * N N,SING,COM,GEN ›«Ì‰«‰”
+W * ADJ ADJ,SIM »Ì‘
+W * P P «“
+W * N N,SING,NUM ‰Ì„
+W * N N,SING,NUM „Ì·Ì«—œ
+W * N N,SING,CONT œ·«—
+W * P P »«
+W * N N,SING,COM „Ê›ﬁÌ 
+W * N N,SING,COM,GEN  «„Ì‰
+W * N N,SING,COM «⁄ »«—
+W * CON CON Ê
+W * N N,SING,COM »«“Å—œ«Œ 
+W * ADJ ADJ,INO ‘œÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+Sub * SUBJ SUBJ !”Ì«”Ì!
+W * DELM DELM #
+W * N N,SING,LOC,PR «Ì—«‰
+W * P P »Â
+W * N N,SING,COM,GEN ⁄÷ÊÌ 
+W * N N,SING,COM,GEN ê—ÊÂ
+W * N N,SING,NUM 51
+W * N N,SING,COM œ—¬„œ
+W * DELM DELM .
+W * N N,SING,PR ⁄„—Ê
+W * N N,SING,PR „Ê”Ì
+W * DELM DELM °
+W * N N,SING,COM,GEN Ê“Ì—
+W * N N,PL,COM,GEN «„Ê—
+W * ADJ ADJ,SIM,GEN Œ«—ÃÂ
+W * N N,SING,LOC,PR „’—
+W * DELM DELM °
+W * N N,SING,DAY,GEN œÊ‘‰»Â
+W * ADJ ADJ,SIM ê–‘ Â
+W * N N,SING,COM «⁄·«„
+W * V V,PA,SIM,POS,3 ﬂ—œ
+W * N N,SING,LOC,PR «Ì—«‰
+W * CON CON Ê
+W * N N,SING,LOC,PR ﬂ·„»Ì«
+W * P P œ—
+W * N N,SING,COM,GEN «Ã·«”
+W * N N,PL,COM,GEN ”—«‰
+W * N N,PL,LOC,GEN ﬂ‘Ê—Â«Ì
+W * N N,SING,COM,GEN ê—ÊÂ
+W * N N,SING,NUM 51
+W * P P œ—
+W * N N,SING,LOC,PR ﬁ«Â—Â
+W * N N,SING,COM ‘—ﬂ 
+W * V V,AUX,FEA,POS,6 ŒÊ«Â‰œ
+W * V V,PA,SIM,POS,3 ﬂ—œ
+W * DELM DELM .
+W * P P »Â
+W * N N,SING,COM,GEN ê“«—‘
+W * N N,SING,COM,GEN ”—ÊÌ”
+W * ADJ ADJ,SIM,GEN »Ì‰ «·„··
+W * N N,SING,NPR «Ì”‰«
+W * DELM DELM °
+W * N N,SING,PR „Ê”Ì
+W * P P œ—
+W * N N,SING,COM,GEN Ã„⁄
+W * N N,PL,COM Œ»—‰ê«—«‰
+W * V V,PA,SIM,POS,3 ê› 
+W * DELM DELM :
+W * N N,SING,COM,GEN œ—ŒÊ«” 
+W * N N,SING,COM,GEN ⁄÷ÊÌ 
+W * N N,SING,LOC,PR «Ì—«‰
+W * CON CON Ê
+W * N N,SING,LOC,PR ﬂ·„»Ì«
+W * P P »Â
+W * N N,SING,COM œ” 
+W * PRO PRO,personal,PL,1 „«
+W * V V,PA,NAR,POS,3 —”ÌœÂ
+W * CON CON Ê
+W * N N,SING,COM,GEN ⁄÷ÊÌ 
+W * DET DET «Ì‰
+W * N N,SING,NUM œÊ
+W * N N,SING,LOC ﬂ‘Ê—
+W * N N,SING,COM,GEN „Ê—œ
+W * ADJ ADJ,SIM ﬁ»Ê·
+W * N N,SING,COM ﬁ—«—
+W * ADJ ADJ,INO ê—› Â
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * P P »«
+W * N N,SING,COM,GEN ⁄÷ÊÌ 
+W * N N,SING,NUM œÊ
+W * N N,SING,LOC,GEN ﬂ‘Ê—
+W * N N,SING,LOC,PR «Ì—«‰
+W * CON CON Ê
+W * N N,SING,LOC,PR ﬂ·„»Ì«
+W * P P œ—
+W * N N,PL,LOC,GEN ﬂ‘Ê—Â«Ì
+W * N N,SING,COM,GEN ê—ÊÂ
+W * N N,SING,NUM 51
+W * N N,SING,GR,GEN  ⁄œ«œ
+W * N N,PL,LOC,INDF ﬂ‘Ê—Â«ÌÌ
+W * CON CON ﬂÂ
+W * P P œ—
+W * DET DET «Ì‰
+W * N N,SING,COM ê—ÊÂ
+W * N N,SING,COM ⁄÷Ê
+W * V V,PRS,POS,6 Â” ‰œ
+W * P P »Â
+W * N N,SING,NUM 91
+W * N N,SING,LOC ﬂ‘Ê—
+W * V V,PA,SIM,POS,3 —”Ìœ
+W * DELM DELM .
+W * N N,SING,COM,GEN ”ƒ«·
+W * ADJ ADJ,SIM œÌê—
+W * PRO PRO,DEMO,SING «Ì‰
+W * V V,PRE,SIM «” 
+W * DELM DELM :
+W * N N,SING,NUM 2
+W * DELM DELM ‹
+W * ADV ADV,I ¬Ì«
+W * P P œ—
+W * N N,SING,COM ¬Ì‰œÂ
+W * N N,SING,COM œ‰Ì«
+W * V V,PRS,POS,3 „Ì  Ê«‰œ
+W * P P »Â
+W * N N,SING,COM,INDF êÊ‰Â «Ì
+W * V V,SUB,POS,3 »‘Êœ
+W * CON CON ﬂÂ
+W * ADV ADV,GENR,NEGG ‰Â
+W * N N,SING,DIR €—»
+W * PRO PRO,DEMO,SING Â„«‰
+W * CON CON ﬂÂ
+W * ADJ ADJ,INO »ÊœÂ
+W * V V,PRE,SIM «” 
+W * V V,SUB,POS,3 »„«‰œ
+W * DELM DELM °
+W * CON CON Ê
+W * ADV ADV,GENR,NEGG ‰Â
+W * N N,SING,DIR ‘—ﬁ
+W * PRO PRO,DEMO,SING Â„«‰
+W * CON CON ﬂÂ
+W * ADJ ADJ,INO »ÊœÂ
+W * DELM DELM °
+W * CON CON »·ﬂÂ
+W * N N,SING,COM,GEN ›—Â‰ê
+W * ADJ ADJ,ORD,INDF ”Ê„Ì
+W * QUA QUA,GEN Â„ÂÒ
+W * N N,SING,COM »‘—Ì 
+W * RA RA —«
+W * P P œ—
+W * P P »—
+W * V V,SUB,POS,3 êÌ—œ
+W * DELM DELM .
+W * N N,SING,COM,GEN ‰„Ê‰ÂÒ
+W * N N,SING,LOC,PR é«Å‰
+W * ADV ADV,GENR,SIM ·««ﬁ·
+W * N N,SING,COM ‰‘«‰
+W * V V,PA,SIM,POS,3 œ«œ
+W * CON CON ﬂÂ
+W * ADV ADV,GENR,NEGG ‰Â
+W * N N,PL,COM,GEN Œ’Ê’Ì« 
+W * N N,SING,DIR ‘—ﬁ
+W * ADJ ADJ,SIM «»œÌ
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * CON CON Ê
+W * ADV ADV,GENR,NEGG ‰Â
+W * N N,PL,COM,GEN Œ’Ê’Ì« 
+W * N N,SING,DIR €—»
+W * DELM DELM .
+W * N N,SING,COM,GEN «‰”«‰
+W * ADJ ADJ,SIM,GEN „ÊÃÊœ
+W * ADJ ADJ,SIM ç«—Â ÃÊ
+W * CON CON Ê
+W * N N,SING,COM ”Ì«·
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * N N,SING,COM,AFF,3 Âœ›‘
+W * N N,SING,COM,GEN «œ«„ÂÒ
+W * N N,SING,COM “‰œêÌ
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * IF IF «ê—
+W * N N,SING,NUM Ìﬂ
+W * N N,SING,COM —«Â
+W * ADJ ADJ,INO »” Â
+W * V V,PA,SIM,POS,3 ‘œ
+W * DELM DELM °
+W * N N,SING,COM,GEN —«Â
+W * ADJ ADJ,SIM,INDF œÌê—Ì
+W * RA RA —«
+W * P P œ—
+W * N N,SING,COM,GEN »—«»—
+W * PRO PRO,R,XOD ŒÊœ
+W * V V,PRS,POS,3 „Ì ê‘«Ìœ
+W * CON CON «„«
+W * P P «“
+W * N N,SING,COM,GEN ”ÊÌ
+W * ADJ ADJ,SIM œÌê—
+W * DELM DELM °
+W * PRO PRO,personal,SING,3 «Ê
+W * V V,AUX,NIN,POS »«Ìœ
+W * P P,GEN  Õ 
+W * N N,SING,COM,GEN ›—„«‰
+W * N N,SING,COM ÿ»Ì⁄ 
+W * V V,SUB,POS,3 »«‘œ
+W * DELM DELM .
+W * N N,SING,COM,GEN €—Ê—
+W * N N,SING,COM «‰”«‰
+W * P P œ—
+W * DET DET «Ì‰
+W * N N,SING,NUM œÊ
+W * N N,SING,TIME,GEN ﬁ—‰
+W * ADJ ADJ,SIM ê–‘ Â
+W * DELM DELM °
+W * N N,SING,COM ÿ»Ì⁄ 
+W * RA RA —«
+W * ADV ADV,deg,SIM œ”  ﬂ„
+W * V V,PA,SIM,POS,3 ê—› 
+W * DELM DELM .
+W * ADV ADV,GENR,TIME «ﬂ‰Ê‰
+W * ADV ADV,GENR,SIM —› Â —› Â
+W * N N,SING,COM „ ÊÃÂ
+W * V V,PRS,POS,3 „Ì ‘Êœ
+W * CON CON ﬂÂ
+W * V V,AUX,NIN,POS »«Ìœ
+W * N N,SING,COM,GEN Õœ
+W * PRO PRO,R,XOD ŒÊœ
+W * RA RA —«
+W * V V,SUB,POS,3 »‘‰«”œ
+W * DELM DELM .
+W * P P »Â
+W * N N,SING,COM ‰Ÿ—
+W * V V,PRS,POS,3 „Ì —”œ
+W * CON CON ﬂÂ
+W * CON CON Â„
+W * N N,SING,DIR ‘—ﬁ
+W * CON CON Ê
+W * CON CON Â„
+W * N N,SING,DIR €—»
+W * V V,AUX,NIN,POS »«Ìœ
+W * N N,SING,NUM Ìﬂ
+W * N N,SING,COM çÌ“
+W * RA RA —«
+W * N N,SING,COM „ÕÊ—
+W * N N,SING,COM ﬁ—«—
+W * V V,SUB,POS,6 œÂ‰œ
+W * DELM DELM °
+W * CON CON Ê
+W * PRO PRO,DEMO,SING ¬‰
+W * N N,SING,COM,GEN ”—‘ 
+W * N N,SING,COM «‰”«‰
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * V V,AUX,NIN,NEG ‰»«Ìœ
+W * V V,SUB,POS,3 ê–«—œ
+W * CON CON ﬂÂ
+W * N N,SING,COM,GEN „Ê«“‰ÂÒ
+W * N N,SING,COM,GEN „Ì«‰
+W * N N,SING,COM,GEN ‰Ì«“
+W * ADJ ADJ,SIM Ã”„«‰Ì
+W * CON CON Ê
+W * N N,SING,COM,GEN ‰Ì«“
+W * ADJ ADJ,SIM „⁄‰ÊÌ
+W * ADJ ADJ,SIM »Ì‘
+W * P P «“
+W * N N,SING,COM Õœ
+W * P P »Â
+W * CON CON Â„
+W * V V,SUB,POS,3 »ŒÊ—œ
+W * DELM DELM .
+W * IF IF «ê—
+W * SPEC SPEC ç‰Ì‰
+W * N N,SING,COM ﬂ«—
+W * DELM DELM °
+W * V V,SUB,POS,3 »‘Êœ
+W * DELM DELM °
+W * N N,SING,COM,AFF,3 »Â«Ì‘
+W * ADJ ADJ,SIM ê—«‰
+W * ADJ ADJ,INO Å—œ«Œ Â
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 ‘œ
+W * DELM DELM .
+W * V V,AUX,NIN,POS »«Ìœ
+W * V V,PA,SIM,POS,3 œÌœ
+W * CON CON ﬂÂ
+W * P P »Â
+W * N N,SING,NUM œÊ
+W * N N,SING,COM,GEN «’·
+W * N N,SING,COM ÷—Ê— 
+W * CON CON Ê
+W * N N,SING,COM Ê«ﬂ‰‘
+W * P P  «
+W * DET DET,I çÂ
+W * N N,SING,COM «‰œ«“Â
+W * V V,AUX,NIN,POS „Ì  Ê«‰
+W * N N,SING,COM «„Ìœ
+W * V V,PA,SIM,POS,3 »” 
+W * DELM DELM .
+W * N N,SING,COM Ê«ﬂ‰‘
+W * PRO PRO,DEMO,SING ¬‰
+W * V V,PRE,SIM «” 
+W * CON CON ﬂÂ
+W * CON CON çÊ‰
+W * N N,SING,COM,INDF «„—Ì
+W * P P »Â
+W * N N,SING,COM Ã—Ì«‰
+W * V V,PA,SIM,POS,3 «› «œ
+W * CON CON Ê
+W * N N,SING,COM,GEN ‰ ÌÃÂÒ
+W * ADJ ADJ,SIM „ÿ·Ê»
+W * P P »Â
+W * N N,SING,COM »«—
+W * V V,SUB,NEG,3 ‰Ì«Ê—œ
+W * DELM DELM °
+W * N N,SING,COM  ÊÃÂ
+W * P P »Â
+W * N N,SING,COM,GEN ÃÂ 
+W * N N,SING,COM,GEN ⁄ﬂ”
+W * PRO PRO,DEMO,SING ¬‰
+W * ADJ ADJ,SIM „⁄ÿÊ›
+W * V V,SUB,POS,3 ‘Êœ
+W * DELM DELM °
+W * CON CON Ì«
+W * ADV ADV,GENR,SIM Õœ«ﬁ·
+W * N N,SING,COM,INDF  ⁄œÌ·Ì
+W * N N,SING,COM ’Ê— 
+W * V V,SUB,POS,3 êÌ—œ
+W * DELM DELM .
+W * N N,SING,DIR €—»
+W * DELM DELM °
+W * P P »—
+W * N N,SING,COM,GEN «À—
+W * DET DET «Ì‰
+W * N N,SING,COM «’·
+W * V V,AUX,NIN,POS »«Ìœ
+W * N N,SING,COM «Õ”«”
+W * V V,SUB,POS,3 ﬂ‰œ
+W * CON CON ﬂÂ
+W * N N,SING,COM,GEN  ﬂÌÂÒ
+W * ADJ ADJ,SIM »Ì‘
+W * P P «“
+W * N N,SING,COM Õœ
+W * P P »—
+W * N N,SING,COM,GEN ç«—Â ÃÊ∆Ì
+W * ADJ ADJ,SIM „«œÌ
+W * DELM DELM °
+W * N N,SING,COM,GEN —«Â
+W * PRO PRO,personal,SING,3 «Ê
+W * RA RA —«
+W * P P »Â
+W * N N,SING,COM »‰ »” 
+W * V V,PRS,POS,3 „Ì ﬂ‘«‰œ
+W * DELM DELM .
+W * P P »Â
+W * N N,SING,COM,GEN ’Ê— 
+W * N N,SING,NUM Ìﬂ
+W * N N,SING,COM,GEN œ” ê«Â
+W * ADJ ADJ,SIM „ﬂ«‰ÌﬂÌ
+W * N N,SING,NFL œ—¬„œ‰
+W * DELM DELM °
+W * ADJ ADJ,SIM „⁄·Ê„
+W * V V,PRS,NEG,3 ‰Ì” 
+W * CON CON ﬂÂ
+W * V V,SUB,POS,3 » Ê«‰œ
+W * ADJ ADJ,SIM œÌê—
+W * N N,SING,COM,INDF ·ÿ›Ì
+W * P P,GEN »—«Ì
+W * N N,SING,COM “‰œêÌ
+W * N N,SING,COM »«ﬁÌ
+W * V V,SUB,POS,3 ê–«—œ
+W * DELM DELM .
+W * CON CON «„«
+W * N N,SING,DIR ‘—ﬁ
+W * DELM DELM °
+W * N N,SING,COM,INDF ç«—Â «Ì
+W * V V,PRS,NEG,3 ‰œ«—œ
+W * CON CON,COMP Ã“
+W * PRO PRO,DEMO,SING ¬‰
+W * CON CON ﬂÂ
+W * N N,SING,COM,GEN —«Â
+W * N N,SING,COM,GEN ê‘«Ì‘
+W * N N,SING,COM,GEN “‰œêÌ
+W * PRO PRO,R,XOD ŒÊœ
+W * RA RA —«
+W * P P «“
+W * N N,SING,COM ⁄·„
+W * CON CON Ê
+W * N N,SING,COM ›‰
+W * V V,SUB,POS,3 »êÌ—œ
+W * DELM DELM °
+W * CON CON Êê—‰Â
+W * P P «“
+W * N N,SING,COM ê—”‰êÌ
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 „—œ
+W * DELM DELM .
+W * QUA QUA Â—
+W * N N,SING,COM,GEN „‰»⁄
+W * N N,SING,COM “‰œêÌ
+W * DELM DELM °
+W * P P »Â
+W * CON CON,COMP Ã“
+W * N N,SING,COM »«“Ê
+W * CON CON Ê
+W * N N,SING,COM,GEN „€“
+W * N N,SING,COM «‰”«‰
+W * DELM DELM °
+W * N N,SING,COM,INDF „‰»⁄Ì
+W * ADJ ADJ,SIM ﬂ«ÂÌœ‰Ì
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 »Êœ
+W * DELM DELM .
+W * ADV ADV,GENR,TIME «ﬂ‰Ê‰
+W * N N,SING,COM,GEN ”ƒ«·
+W * ADJ ADJ,ORD ¬Œ—
+W * PRO PRO,DEMO,SING «Ì‰
+W * V V,PRE,SIM «” 
+W * CON CON ﬂÂ
+W * ADV ADV,I ¬Ì«
+W * ADV ADV,GENR,SIM Ê«ﬁ⁄«
+W * ADJ ADJ,SIM ·«“„
+W * V V,PRE,SIM «” 
+W * CON CON ﬂÂ
+W * N N,SING,COM,GEN ‘ﬂ«›
+W * N N,SING,COM,GEN „Ì«‰
+W * N N,SING,DIR ‘—ﬁ
+W * CON CON Ê
+W * N N,SING,DIR €—»
+W * ADJ ADJ,INO »—œ«‘ Â
+W * V V,SUB,POS,3 ‘Êœ
+W * CON CON Ê
+W * DET DET «Ì‰
+W * N N,SING,COM œÊ
+W * DELM DELM °
+W * N N,SING,TIME,INDF —Ê“Ì
+W * P P »Â
+W * CON CON Â„
+W * V V,SUB,POS,6 »—”‰œ
+W * DELM DELM ø
+W * N N,SING,COM „‰ŸÊ—
+W * P P «“
+W * P P »Â
+W * CON CON Â„
+W * N N,SING,NFL,GEN —”Ìœ‰
+W * PRO PRO,DEMO,SING ¬‰
+W * V V,PRE,SIM «” 
+W * CON CON ﬂÂ
+W * P P œ—
+W * N N,SING,COM,GEN œ‰Ì«Ì
+W * ADJ ADJ,SIM ﬂÊçﬂ
+W * MORP MORP,MADJ ‘œÂ
+W * N N,SING,COM Â„«Â‰êÌ
+W * P P œ—
+W * N N,PL,COM,GEN ‘∆Ê‰
+W * ADJ ADJ,SIM,GEN ÕÌ« Ì
+W * ADJ ADJ,SIM «‰”«‰Ì
+W * N N,SING,COM —ÊÌ
+W * V V,SUB,POS,3 ‰„«Ìœ
+W * CON CON Ê
+W * QUA QUA Â—
+W * N N,SING,COM Ã«
+W * N N,PL,COM,GEN ÊÃÊÂ
+W * N N,SING,COM «› —«ﬁ
+W * N N,SING,COM,GEN „ÊÃ»
+W * N N,SING,COM Ãœ«·
+W * V V,SUB,POS,3 »«‘œ
+W * DELM DELM °
+W * P P œ—
+W * N N,SING,COM,GEN Õœ
+W * ADJ ADJ,SIM „„ﬂ‰
+W * ADJ ADJ,INO “œÊœÂ
+W * V V,SUB,POS,3 ‘Êœ
+W * DELM DELM .
+W * N N,SING,ORD ‰Œ” 
+W * V V,AUX,NIN,POS »«Ìœ
+W * V V,PA,SIM,POS,3 œÌœ
+W * CON CON ﬂÂ
+W * N N,SING,COM,GEN «Œ ·«›
+W * N N,SING,COM,GEN „Ì«‰
+W * N N,SING,DIR €—»
+W * CON CON Ê
+W * N N,SING,DIR ‘—ﬁ
+W * ADJ ADJ,SIM ‰«‘Ì
+W * P P «“
+W * N N,SING,COM «ﬁ ’«œ
+W * V V,PRE,SIM «” 
+W * CON CON Ì«
+W * N N,SING,COM ›—Â‰ê
+W * DELM DELM .
+W * P P »Â
+W * N N,SING,COM ‰Ÿ—
+W * V V,PRS,POS,3 „Ì —”œ
+W * CON CON ﬂÂ
+W * N N,SING,COM «ﬁ ’«œ
+W * N N,SING,COM,GEN ‰ﬁ‘
+W * N N,SING,COM Å«ÌÂ
+W * V V,PRS,POS,3 œ«—œ
+W * DELM DELM °
+W * CON CON Â—ç‰œ
+W * N N,SING,COM,GEN »—Ê“
+W * PRO PRO,DEMO,SING ¬‰
+W * P P «“
+W * N N,SING,COM,GEN ÿ—Ìﬁ
+W * N N,SING,COM ›—Â‰ê
+W * V V,PA,SIM,POS,3 ‰„Êœ
+W * V V,PRS,POS,3 „Ì ﬂ‰œ
+W * DELM DELM .
+W * N N,SING,DIR €—»
+W * DELM DELM °
+W * P P »—
+W * N N,SING,COM,GEN «À—
+W * N N,SING,COM ⁄·„
+W * CON CON Ê
+W * N N,SING,COM ›‰
+W * P P »—
+W * N N,SING,COM,GEN ’Õ‰ÂÒ
+W * N N,SING,COM ÃÂ«‰
+W * N N,SING,COM  ”·ÿ
+W * V V,PA,NAR,POS,3 Ì«› Â
+W * CON CON Ê
+W * N N,SING,COM,GEN ”ÿÕ
+W * N N,SING,COM,GEN “‰œêÌ
+W * PRO PRO,R,XOD ŒÊœ
+W * RA RA —«
+W * P P »Â
+W * ADJ ADJ,SUP »«·« —Ì‰
+W * N N,SING,COM,GEN Õœ
+W * ADJ ADJ,SIM „„ﬂ‰
+W * V V,PA,NAR,POS,3 —”«‰ÌœÂ
+W * DELM DELM °
+W * CON CON Ê
+W * ADV ADV,GENR,SIM «·» Â
+W * V V,PRS,POS,3 „Ì ﬂÊ‘œ
+W * CON CON  «
+W * P P »Â
+W * QUA QUA Â—
+W * N N,SING,COM ﬁÌ„ 
+W * DET DET «Ì‰
+W * N N,SING,COM  ›Êﬁ
+W * RA RA —«
+W * N N,SING,COM Õ›Ÿ
+W * V V,SUB,POS,3 ﬂ‰œ
+W * DELM DELM .
+W * DET DET «Ì‰
+W * N N,SING,COM »— —Ì
+W * ADV ADV,GENR,TIME  «ﬂ‰Ê‰
+W * P P  «
+W * N N,SING,COM,INDF «‰œ«“Â «Ì
+W * P P œ—
+W * N N,SING,COM,GEN ê—Ê
+W * N N,SING,COM,GEN ⁄ﬁ» „«‰œêÌ
+W * N N,SING,DIR ‘—ﬁ
+W * ADJ ADJ,INO »ÊœÂ
+W * DELM DELM °
+W * CON CON Ì⁄‰Ì
+W * N N,PL,COM,GEN „‰«»⁄
+W * ADJ ADJ,SIM ‘—ﬁÌ
+W * P P «“
+W * N N,SING,COM,GEN ‰Ê⁄
+W * N N,PL,COM,GEN „Ê«œ
+W * ADJ ADJ,SIM Œ«„
+W * CON CON Ê
+W * N N,SING,COM,GEN ﬂ«—
+W * ADJ ADJ,CMPR «—“«‰ —
+W * DELM DELM °
+W * N N,SING,COM À—Ê 
+W * RA RA —«
+W * P P «“
+W * DET DET «Ì‰
+W * N N,SING,COM ”Ê
+W * P P »Â
+W * N N,SING,COM,GEN ”ÊÌ
+W * N N,PL,LOC,GEN ﬂ‘Ê—Â«Ì
+W * ADJ ADJ,SIM ’‰⁄ Ì
+W * ADJ ADJ,SIM ”—«“Ì—
+W * ADJ ADJ,INO ﬂ—œÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * ADV ADV,GENR,TIME «ﬂ‰Ê‰
+W * IF IF «ê—
+W * N N,SING,COM ›—÷
+W * V V,SUB,POS,4 ﬂ‰Ì„
+W * CON CON ﬂÂ
+W * N N,SING,TIME,INDF —Ê“Ì
+W * DET DET «Ì‰
+W * N N,SING,COM „Ê«“‰Â
+W * DELM DELM °
+W * CON CON Ì⁄‰Ì
+W * P P œ—
+W * ADJ ADJ,SIM Ê«ﬁ⁄
+W * N N,SING,COM »Ì  Ê«“‰Ì
+W * DELM DELM °
+W * P P »Â
+W * CON CON Â„
+W * V V,SUB,POS,3 »ŒÊ—œ
+W * DELM DELM °
+W * ADV ADV,I çÂ
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 ‘œ
+W * DELM DELM ø
+W * N N,SING,COM,INDF Ã«‰‘Ì‰Ì
+W * CON CON ﬂÂ
+W * ADV ADV,GENR,SIM Â‰Ê“
+W * ADJ ADJ,SIM „Õﬂ„
+W * P P »—
+W * N N,SING,COM,GEN Ã«Ì
+W * PRO PRO,R,XOD ŒÊœ
+W * V V,PA,NAR,POS,3 ‰‘” Â
+W * DELM DELM °
+W * N N,SING,COM,GEN  ﬂ‰Ê·ÊéÌ
+W * N N,SING,DIR €—»
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * N N,SING,DIR ‘—ﬁ
+W * P P  «
+W * N N,PL,TIME ”«·Â«
+W * ADJ ADJ,SIM „Õ «Ã
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 »Êœ
+W * CON CON ﬂÂ
+W * PRO PRO,DEMO,SING ¬‰
+W * RA RA —«
+W * P P »Â
+W * N N,SING,COM,GEN »Â«Ì
+W * ADJ ADJ,SIM ê“«›
+W * V V,SUB,POS,3 »Œ—œ
+W * DELM DELM .
+W * ADV ADV,GENR,SIM Œ«’Â
+W * PRO PRO,DEMO,SING ¬‰
+W * CON CON ﬂÂ
+W * N N,SING,COM ‰›«ﬁ
+W * CON CON Ê
+W * N N,SING,COM  ⁄’»
+W * CON CON ﬂÂ
+W * ADJ ADJ,SIM „Õ—ﬂ
+W * N N,SING,COM Ã‰ê
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * PRO PRO,personal,SING,3 «Ê
+W * RA RA —«
+W * ADJ ADJ,SIM,GEN „Õ «Ã
+W * N N,PL,COM,GEN Ã‰ê «›“«—Â«Ì
+W * ADJ ADJ,SIM €—»Ì
+W * N N,SING,COM ‰ê«Â
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 œ«‘ 
+W * DELM DELM .
+W * P P,DET »œÌ‰
+W * N N,SING,COM êÊ‰Â
+W * DELM DELM °
+W * N N,SING,COM,GEN ‰Ì«“„‰œÌ
+W * N N,SING,DIR ‘—ﬁ
+W * P P »Â
+W * N N,SING,DIR €—»
+W * P P »Â
+W * N N,SING,COM,GEN Ã«Ì
+W * PRO PRO,R,XOD ŒÊœ
+W * N N,SING,COM »«ﬁÌ
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * CON CON „ê—
+W * P P »«
+W * N N,SING,COM,GEN  Õﬁﬁ
+W * DET DET «Ì‰
+W * N N,SING,NUM œÊ
+W * N N,SING,COM ‘—ÿ
+W * DELM DELM :
+W * N N,SING,NUM,INDF ÌﬂÌ
+W * PRO PRO,DEMO,SING ¬‰
+W * CON CON ﬂÂ
+W * N N,SING,DIR ‘—ﬁ
+W * ADV ADV,GENR,SIM «‰œﬂ «‰œﬂ
+W * N N,SING,COM,GEN ’‰⁄ 
+W * PRO PRO,R,XOD ŒÊœ
+W * RA RA —«
+W * N N,SING,COM  Ê”⁄Â
+W * V V,SUB,POS,3 »Œ‘œ
+W * DELM DELM °
+W * CON CON Ê
+W * N N,SING,COM,GEN Ê«»” êÌ
+W * PRO PRO,R,XOD ŒÊœ
+W * RA RA —«
+W * P P »Â
+W * N N,SING,COM,GEN  ﬂ‰Ê·ÊéÌ
+W * N N,SING,DIR €—»
+W * ADJ ADJ,SIM ﬂ„
+W * V V,SUB,POS,3 ﬂ‰œ
+W * DELM DELM .
+W * ADV ADV,GENR,ORD œÊ„
+W * PRO PRO,DEMO,SING ¬‰
+W * CON CON ﬂÂ
+W * N N,SING,COM,GEN »Ìœ«—‘œêÌ
+W * ADJ ADJ,SIM ”Ì«”Ì
+W * DELM DELM °
+W * N N,SING,COM,GEN œ—ÃÂÒ
+W * N N,SING,COM,GEN „ﬁ«Ê„ 
+W * PRO PRO,personal,SING,3 «Ê
+W * RA RA —«
+W * P P œ—
+W * N N,SING,COM,GEN »—«»—
+W * N N,PL,COM,GEN  Êﬁ⁄« 
+W * N N,SING,DIR €—»
+W * N N,SING,COM «›“«Ì‘
+W * V V,SUB,POS,3 œÂœ
+W * DELM DELM .
+W * N N,SING,COM ⁄·„
+W * CON CON Ê
+W * N N,SING,COM ’‰⁄ 
+W * CON CON Ê
+W * N N,SING,COM,GEN ›—Â‰ê
+W * ADJ ADJ,SIM €—»Ì
+W * DELM DELM °
+W * ADV ADV,GENR,SIM ŒÊ«Â ‰«ŒÊ«Â
+W * N N,SING,COM,INDF „ﬁœ«—Ì
+W * N N,SING,COM,GEN »Ìœ«—‘œêÌ
+W * ADJ ADJ,SIM ”Ì«”Ì
+W * RA RA —«
+W * CON CON Â„
+W * P P »Â
+W * N N,SING,COM œ‰»«·
+W * ADJ ADJ,INO ¬Ê—œÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * DELM DELM !
+W * DELM DELM !
+W * DELM DELM !
+W * N N,SING,COM ﬂ”
+W * V V,PA,SIM,NEG,3 ‰Ì«„ÊŒ 
+W * N N,SING,COM,GEN ⁄·„
+W * N N,SING,MON  Ì—
+W * P P «“
+W * PRO PRO,personal,SING,1 „‰
+W * CON CON ﬂÂ
+W * PRO PRO,INO,SING,1 „—«
+W * ADV ADV,GENR,SIM ⁄«ﬁ» 
+W * N N,SING,COM ‰‘«‰Â
+W * V V,PA,SIM,NEG,3 ‰ﬂ—œ
+W * SUBJ SUBJ !!!
+W * DELM DELM .
+W * P P »—
+W * N N,SING,COM,GEN «À—
+W * DET DET «Ì‰
+W * N N,SING,COM ÅÌ‘ »Ì‰Ì
+W * V V,PRE,SIM «” 
+W * CON CON ﬂÂ
+W * P P «“
+W * N N,SING,NUM ç‰œ
+W * N N,SING,TIME,GEN ”«·
+W * N N,SING,COM ÅÌ‘
+W * P P »Â
+W * DET DET «Ì‰
+W * N N,SING,COM ”Ê
+W * DELM DELM °
+W * N N,SING,COM,GEN œ‰Ì«Ì
+W * ADJ ADJ,SIM ’‰⁄ Ì
+W * DELM DELM °
+W * P P »Â
+W * N N,PL,COM,GEN Ã»ÂÂ »‰œÌÂ«Ì
+W * ADJ ADJ,SIM,INDF  «“Â «Ì
+W * N N,SING,COM œ” 
+W * ADJ ADJ,INO “œÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * P P «“
+W * N N,SING,COM,GEN ‰Ê⁄
+W * N N,SING,GR,GEN « Õ«œÌÂ
+W * N N,SING,LOC,PR «—ÊÅ«
+W * DELM DELM °
+W * N N,SING,GR,GEN « Õ«œÌÂ
+W * N N,PL,LOC,GEN ﬂ‘Ê—Â«Ì
+W * ADJ ADJ,SIM ’‰⁄ Ì
+W * DELM DELM °
+W * N N,SING,GR,GEN « Õ«œÌÂ
+W * N N,SING,PR ¬ ·«‰ Ìﬂ
+W * DELM DELM °
+W * CON CON Ê
+W * N N,PL,COM,GEN «ﬁœ«„Â«Ì
+W * ADJ ADJ,SIM œÌê—
+W * CON CON ﬂÂ
+W * QUA QUA,GEN ﬂ·
+W * N N,PL,COM,GEN ”—“„Ì‰Â«Ì
+W * ADJ ADJ,SIM ’‰⁄ Ì
+W * RA RA —«
+W * P P œ—
+W * N N,SING,NUM Ìﬂ
+W * N N,SING,COM ﬂ«‰Ê‰
+W * N N,SING,COM ê—œ
+W * V V,PA,PRG,POS,3 „Ì ¬Ê—œ
+W * DELM DELM °
+W * CON CON  «
+W * P P »Â
+W * N N,SING,COM,GEN Ã«Ì
+W * N N,SING,COM —ﬁ«» 
+W * DELM DELM °
+W * N N,PL,COM,GEN „‰«›⁄
+W * ADJ ADJ,SIM,GEN ⁄„ﬁÌ
+W * PRO PRO,R,XOD ŒÊœ
+W * RA RA —«
+W * N N,SING,COM Õ›Ÿ
+W * V V,SUB,POS,6 ﬂ‰‰œ
+W * DELM DELM .
+W * CON CON Â„
+W * ADV ADV,GENR,TIME «ﬂ‰Ê‰
+W * N N,SING,COM,GEN Õ—›
+W * PRO PRO,DEMO,SING ¬‰
+W * V V,PRE,SIM «” 
+W * CON CON ﬂÂ
+W * N N,SING,LOC,PR,GEN «—ÊÅ«Ì
+W * ADJ ADJ,SIM ‘—ﬁÌ
+W * CON CON Ê
+W * ADV ADV,GENR,SIM Õ Ì
+W * N N,SING,LOC,PR —Ê”ÌÂ
+W * CON CON Â„
+W * P P »Â
+W * N N,SING,COM,GEN ÅÌ„«‰
+W * N N,SING,PR ¬ ·«‰ Ìﬂ
+W * V V,SUB,POS,6 »ÅÌÊ‰œ‰œ
+W * DELM DELM °
+W * CON CON Ê
+W * N N,SING,COM,GEN Âœ›
+W * N N,SING,COM,GEN „ﬁ«»·
+W * DET DET «Ì‰
+W * N N,PL,COM Ã»ÂÂ »‰œÌÂ«
+W * DELM DELM °
+W * N N,SING,COM,GEN œ‰Ì«Ì
+W * N N,SING,DIR ‘—ﬁ
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * N N,SING,COM,INDF œ‰Ì«∆Ì
+W * ADJ ADJ,SIM Å—Ã„⁄Ì 
+W * CON CON Ê
+W * P P œ—
+W * N N,SING,COM,GEN Õ«·
+W * N N,SING,COM Õ—ﬂ 
+W * CON CON Ê
+W * ADJ ADJ,SIM ﬂ„ ‰Ê«
+W * DELM DELM .
+W * N N,SING,TIME Å”
+W * P P «“
+W * N N,SING,COM,GEN ›—ÊÅ«‘Ì
+W * N N,SING,COM,GEN Ã»ÂÂÒ
+W * ADJ ADJ,SIM ”Ê”Ì«·Ì” Ì
+W * CON CON Ê
+W * ADJ ADJ,SIM ›—Êﬂ‘
+W * N N,SING,NFL,GEN ﬂ—œ‰
+W * N N,SING,COM,GEN Ã‰ê
+W * ADJ ADJ,SIM ”—œ
+W * DELM DELM °
+W * N N,SING,COM,GEN œ›«⁄
+W * N N,SING,DIR €—»
+W * N N,SING,COM,GEN  €ÌÌ—
+W * N N,SING,COM „Ê÷⁄
+W * ADJ ADJ,INO œ«œÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * CON CON Ì⁄‰Ì
+W * P P œ—
+W * N N,SING,NUM Ìﬂ
+W * N N,SING,COM,GEN Ã‰ê
+W * ADJ ADJ,SIM „ﬂ Ê„
+W * DELM DELM °
+W * P P »Â
+W * N N,SING,COM,GEN „ﬁ«»·ÂÒ
+W * N N,PL,COM œ«—«Â«
+W * CON CON Ê
+W * N N,PL,COM ‰œ«—Â«
+W * N N,SING,COM  »œÌ·
+W * ADJ ADJ,INO ê—œÌœÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * PRO PRO,INDF,SING ç‰Ì‰
+W * V V,PRS,POS,3 „Ì ‰„«Ìœ
+W * CON CON ﬂÂ
+W * N N,SING,TIME,GEN ﬁ—‰
+W * ADJ ADJ,SIM Õ«÷—
+W * CON CON Ê
+W * CON CON Ì«
+W * CON CON çÊ‰
+W * N N,SING,COM œ‰Ì«
+W * ADV ADV,GENR,SIM »”—⁄ 
+W * P P œ—
+W * N N,SING,COM,GEN Õ«·
+W * N N,SING,COM  €ÌÌ—
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * N N,SING,COM,INDF »Œ‘Ì
+W * P P «“
+W * N N,SING,TIME,GEN ﬁ—‰
+W * ADJ ADJ,SIM Õ«÷—
+W * ADJ ADJ,SIM,GEN ‰«Ÿ—
+W * N N,SING,COM ‘œ 
+W * N N,SING,NFL,GEN ê—› ‰
+W * N N,SING,COM,GEN —«»ÿÂÒ
+W * N N,SING,DIR ‘—ﬁ
+W * CON CON Ê
+W * N N,SING,DIR €—»
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 »Êœ
+W * DELM DELM °
+W * CON CON Ê
+W * PRO PRO,DEMO,SING «Ì‰
+W * DELM DELM °
+W * P P »—
+W * N N,SING,COM,GEN Õ”»
+W * PRO PRO,DEMO,SING ¬‰
+W * CON CON ﬂÂ
+W * ADV ADV,I çêÊ‰Â
+W * V V,SUB,POS,3 »«‘œ
+W * DELM DELM °
+W * N N,SING,COM,INDF  √ÀÌ—Ì
+W * ADV ADV,deg,SIM »”Ì«—
+W * ADJ ADJ,SIM ê—«‰
+W * P P œ—
+W * N N,SING,COM,GEN ”—‰Ê‘ 
+W * N N,SING,COM ÃÂ«‰
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 œ«‘ 
+W * DELM DELM .
+W * N N,SING,COM,GEN ’› »‰œÌ
+W * N N,SING,DIR €—»
+W * ADJ ADJ,SIM Õ«ﬂÌ
+W * P P «“
+W * N N,SING,COM ‰ê—«‰Ì
+W * V V,PRE,PROC,3 «Ê” 
+W * DELM DELM .
+W * N N,SING,DIR €—»
+W * P P »Â
+W * N N,SING,COM,GEN ﬁœ—
+W * ADJ ADJ,SIM ﬂ«›Ì
+W * N N,SING,COM ÅÌ‘ »Ì‰Ì
+W * MORP MORP,MADJ ﬂ‰‰œÂ
+W * V V,PRS,POS,3 Â” 
+W * CON CON ﬂÂ
+W * P P «“
+W * CON CON Â„
+W * ADV ADV,GENR,TIME «ﬂ‰Ê‰
+W * V V,SUB,POS,3 »ŒÊ«Âœ
+W * N N,SING,COM,GEN ÂÊ«Ì
+W * N N,SING,COM ﬂ«—
+W * RA RA —«
+W * ADJ ADJ,INO œ«‘ Â
+W * V V,SUB,POS,3 »«‘œ
+W * DELM DELM .
+W * N N,PL,COM,INDF ﬂ”«‰Ì
+W * CON CON ﬂÂ
+W * P P »Â
+W * N N,SING,COM,GEN —ﬁ«» 
+W * N N,SING,COM,GEN „Ì«‰
+W * N N,SING,LOC,PR «„—Ìﬂ«
+W * CON CON Ê
+W * N N,SING,LOC,PR «—ÊÅ«
+W * N N,SING,COM œ·
+W * ADJ ADJ,SIM ŒÊ‘
+W * V V,PA,NAR,POS,6 ﬂ—œÂ «‰œ
+W * CON CON Ê
+W * N N,SING,COM,AFF,3 Õ—›‘
+W * RA RA —«
+W * V V,PRS,POS,6 „Ì “‰‰œ
+W * DELM DELM °
+W * N N,SING,COM,GEN œ«” «‰
+W * N N,SING,COM ‘ —
+W * P P œ—
+W * N N,SING,COM ŒÊ«»
+W * V V,SUB,POS,3 »Ì‰œ
+W * N N,SING,COM Å‰»Â
+W * N N,SING,COM œ«‰Â
+W * RA RA —«
+W * P P »Â
+W * N N,SING,COM Ì«œ
+W * V V,PRS,POS,6 „Ì ¬Ê—‰œ
+W * DELM DELM .
+W * N N,SING,COM,GEN œ‰Ì«Ì
+W * N N,SING,DIR €—»
+W * CON CON Ê
+W * N N,SING,COM,GEN œ‰Ì«Ì
+W * ADJ ADJ,SIM ’‰⁄ Ì
+W * ADV ADV,deg,SIM ŒÌ·Ì
+W * ADJ ADJ,CMPR »Ì‘ —
+W * P P «“
+W * PRO PRO,DEMO,SING ¬‰
+W * CON CON ﬂÂ
+W * P P »Â
+W * N N,SING,COM Ÿ«Â—
+W * V V,PRS,POS,3 „Ì ‰„«Ìœ
+W * ADJ ADJ,SIM Ìﬂ Å«—çÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * CON CON “Ì—«
+W * P P œ—
+W * N N,SING,COM,GEN »—«»—
+W * PRO PRO,R,XOD ŒÊÌ‘
+W * N N,SING,COM,GEN Õ—Ì›
+W * ADJ ADJ,SIM,INDF Œÿ—‰«ﬂÌ
+W * V V,PRS,POS,3 „Ì »Ì‰œ
+W * CON CON Ê
+W * PRO PRO,DEMO,SING ¬‰
+W * N N,SING,LOC,PR ¬”Ì«
+W * CON CON Ê
+W * V V,PRE,NC,3 «›—Ìﬁ«” 
+W * DELM DELM .
+W * N N,SING,COM,GEN Õ—Ì›
+W * ADJ ADJ,SIM »«·ﬁÊÂ
+W * ADJ ADJ,SIM „„ﬂ‰
+W * V V,PRE,SIM «” 
+W * ADV ADV,GENR,TIME ›—œ«
+W * P P »Â
+W * N N,SING,COM »«·›⁄·
+W * N N,SING,COM  »œÌ·
+W * V V,SUB,POS,3 ‘Êœ
+W * DELM DELM .
+W * N N,SING,DIR,GEN ‘—ﬁ
+W * ADJ ADJ,SIM »Ìœ«—
+W * P P »«
+W * N N,SING,DIR,GEN ‘—ﬁ
+W * ADJ ADJ,SIM,GEN Œ› ÂÒ
+W * N N,SING,NUM ’œ
+W * N N,SING,TIME,GEN ”«·
+W * N N,SING,COM ÅÌ‘
+W * ADV ADV,deg,SIM ŒÌ·Ì
+W * N N,SING,COM  ›«Ê 
+W * V V,PRS,POS,3 œ«—œ
+W * DELM DELM .
+W * V V,PA,SIM,POS,3 ê–‘ 
+W * DET DET ¬‰
+W * N N,SING,COM,INDF “„«‰Ì
+W * CON CON ﬂÂ
+W * N N,PL,COM «—ÊÅ«∆Ì«‰
+W * P P œ—
+W * N N,SING,NUM œÊ
+W * N N,SING,COM,GEN Ã‰ê
+W * ADJ ADJ,SIM ÃÂ«‰Ì
+W * DELM DELM °
+W * P P »—
+W * N N,SING,COM,GEN ”—
+W * N N,SING,COM,GEN  ﬁ”Ì„
+W * N N,PL,COM,GEN €‰«∆„
+W * N N,SING,DIR „‘—ﬁ
+W * N N,SING,LOC “„Ì‰
+W * DELM DELM °
+W * P P »Â
+W * N N,SING,COM,GEN Ã«‰
+W * CON CON Â„
+W * V V,PA,PRG,POS,6 „Ì «› «œ‰œ
+W * DELM DELM .
+W * ADV ADV,GENR,TIME «ﬂ‰Ê‰
+W * N N,PL,COM,GEN —ﬁ«» Â«Ì
+W * ADJ ADJ,SIM ﬂÊçﬂ
+W * P P »Â
+W * N N,SING,COM,GEN Ã«Ì
+W * PRO PRO,R,XOD ŒÊœ
+W * V V,PRS,POS,3 Â” 
+W * DELM DELM °
+W * N N,PL,COM,INDF —ﬁ«» Â«ÌÌ
+W * ADJ ADJ,SIM „”«·„  ¬„Ì“
+W * DELM DELM °
+W * CON CON Ê·Ì
+W * CON CON çÊ‰
+W * N N,SING,COM,GEN Å«Ì
+W * N N,PL,COM €—Ì»Â Â«
+W * P P »Â
+W * N N,SING,COM „Ì«‰
+W * V V,SUB,POS,3 ¬Ìœ
+W * DELM DELM °
+W * N N,SING,COM  »œÌ·
+W * P P »Â
+W * N N,SING,COM « ›«ﬁ
+W * V V,PRS,POS,3 „Ì ‘Êœ
+W * DELM DELM .
+W * N N,SING,COM œ‰Ì«
+W * P P »Â
+W * N N,SING,NUM Ìﬂ
+W * N N,SING,COM ŒÊœÌ
+W * CON CON Ê
+W * N N,SING,COM,GEN €Ì—ŒÊœÌ
+W * ADJ ADJ,SIM »“—ê
+W * N N,SING,COM  ﬁ”Ì„
+W * ADJ ADJ,INO ê—œÌœÂ
+W * DELM DELM °
+W * CON CON ﬂÂ
+W * N N,SING,COM ÅÌ‘
+W * P P «“
+W * PRO PRO,DEMO,SING ¬‰
+W * N N,SING,COM ”«»ﬁÂ
+W * ADJ ADJ,INO,NEG ‰œ«‘ Â
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * ADV ADV,GENR,TIME «ﬂ‰Ê‰
+W * V V,SUB,POS,4 »Ì«∆Ì„
+W * P P »—
+W * N N,SING,COM,GEN ”—
+W * DET DET «Ì‰
+W * N N,SING,COM ”ƒ«·
+W * CON CON ﬂÂ
+W * ADV ADV,I ¬Ì«
+W * N N,SING,DIR ‘—ﬁ
+W * P P «“
+W * N N,SING,COM,GEN ·Õ«Ÿ
+W * ADJ ADJ,SIM ⁄·„Ì
+W * CON CON Ê
+W * ADJ ADJ,SIM ’‰⁄ Ì
+W * N N,SING,TIME,INDF —Ê“Ì
+W * P P »Â
+W * N N,SING,COM,GEN Å«Ì
+W * N N,SING,DIR €—»
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 —”Ìœ
+W * DELM DELM ø
+W * N N,SING,COM,GEN ‰„Ê‰ÂÒ
+W * N N,SING,LOC,PR é«Å‰
+W * P P œ—
+W * N N,SING,COM,GEN »—«»—
+W * V V,PRE,PROC,3 „«” 
+W * DELM DELM .
+W * CON CON Â„
+W * ADV ADV,GENR,TIME «ﬂ‰Ê‰
+W * N N,SING,NUM Ìﬂ
+W * ADJ ADJ,SIM ”Ì«Â ÅÊ” 
+W * N N,SING,COM,GEN œ»Ì—ﬂ·
+W * N N,SING,COM,GEN ”«“„«‰
+W * N N,PL,GR „··
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * N N,SING,NUM ç‰œ
+W * N N,SING,TIME,GEN ”«·
+W * N N,SING,COM ÅÌ‘
+W * N N,SING,NUM Ìﬂ
+W * N N,SING,COM »—„Â «Ì
+W * V V,PA,SIM,POS,3 »Êœ
+W * DELM DELM .
+W * N N,PL,NUM Â“«—«‰
+W * N N,SING,COM,GEN œ«‰‘„‰œ
+W * N N,SING,COM,GEN œ—ÃÂÒ
+W * ADJ ADJ,ORD,GEN «Ê·
+W * ADJ ADJ,SIM ‘—ﬁÌ
+W * N N,SING,COM  »«—
+W * DELM DELM °
+W * P P «“
+W * N N,PL,LOC,GEN ﬂ‘Ê—Â«Ì
+W * ADJ ADJ,SIM „Œ ·›
+W * DELM DELM °
+W * P P œ—
+W * N N,SING,LOC,PR «„—Ìﬂ«
+W * CON CON Ê
+W * N N,SING,LOC,PR ﬂ«‰«œ«
+W * CON CON Ê
+W * N N,SING,LOC,PR «—ÊÅ«
+W * DELM DELM °
+W * P P œ—
+W * N N,SING,COM,GEN ÅÌ‘»—œ
+W * N N,SING,COM ⁄·„
+W * N N,SING,COM „‘«—ﬂ 
+W * V V,PRS,POS,6 œ«—‰œ
+W * DELM DELM .
+W * N N,SING,LOC,PR çÌ‰
+W * CON CON Ê
+W * N N,SING,LOC,PR ﬂ—Â
+W * P P «“
+W * N N,SING,COM,GEN ·Õ«Ÿ
+W * N N,SING,COM,GEN ”—⁄ 
+W * N N,SING,COM ÅÌ‘—› 
+W * DELM DELM °
+W * V V,PRS,POS,6 „Ì  Ê«‰‰œ
+W * ADJ ADJ,SIM €«›·êÌ— ﬂ‰‰œÂ
+W * V V,SUB,POS,6 »‘Ê‰œ
+W * DELM DELM .
+W * ADJ ADJ,SIM,GEN «‰»ÊÂ
+W * N N,SING,GR,GEN Ã„⁄Ì 
+W * N N,SING,DIR ‘—ﬁ
+W * IF IF «ê—
+W * P P »Â
+W * N N,SING,COM  ﬂ‰Ìﬂ
+W * N N,SING,COM œ” —”Ì
+W * ADJ ADJ,SIM ÅÌœ«
+W * V V,SUB,POS,6 ﬂ‰‰œ
+W * DELM DELM °
+W * ADJ ADJ,SIM ”Ì· ¬”«
+W * V V,PRS,POS,6 „Ì ê—œ‰œ
+W * DELM DELM .
+W * ADV ADV,GENR,SIM «·» Â
+W * N N,SING,DIR €—»
+W * V V,PRS,NEG,3 ‰„Ì  Ê«‰œ
+W * N N,SING,COM,GEN Ã·Ê
+W * DET DET «Ì‰
+W * ADJ ADJ,SIM,GEN ”Ì—
+W * ADJ ADJ,SIM ÿ»Ì⁄Ì
+W * RA RA —«
+W * V V,SUB,POS,3 »êÌ—œ
+W * DELM DELM °
+W * CON CON Ê·Ì
+W * P P  «
+W * V V,SUB,POS,3 » Ê«‰œ
+W * PRO PRO,INO,SING,3 ¬‰—«
+W * P P »Â
+W * N N,SING,COM  √ŒÌ—
+W * V V,PRS,POS,3 „Ì «‰œ«“œ
+W * DELM DELM .
+W * DET DET Â„Ì‰
+W * N N,SING,COM «‰œ«“Â
+W * IF IF «ê—
+W * N N,SING,DIR ‘—ﬁ
+W * DELM DELM °
+W * CON CON Ì«
+W * N N,SING,COM,INDF »Œ‘Ì
+W * P P «“
+W * N N,SING,DIR ‘—ﬁ
+W * P P »Â
+W * N N,SING,COM,INDF „—Õ·Â «Ì
+W * V V,SUB,POS,3 »—”œ
+W * CON CON ﬂÂ
+W * N N,PL,COM,GEN ‰Ì«“Â«Ì
+W * ADJ ADJ,SIM,GEN ’‰⁄ Ì
+W * PRO PRO,R,XOD ŒÊœ
+W * RA RA —«
+W * PRO PRO,R,XOD ŒÊœ
+W * ADJ ADJ,SIM »—¬Ê—œÂ
+W * V V,SUB,POS,3 ﬂ‰œ
+W * DELM DELM °
+W * CON CON Ê
+W * N N,PL,COM,GEN „Ê«œ
+W * ADJ ADJ,SIM,GEN Œ«„
+W * PRO PRO,R,XOD ŒÊœ
+W * RA RA —«
+W * PRO PRO,R,XOD ŒÊœ
+W * P P »Â
+W * N N,SING,COM ﬂ«—
+W * V V,SUB,POS,3 »—œ
+W * DELM DELM °
+W * N N,SING,COM,GEN œê—êÊ‰Ì
+W * ADJ ADJ,SIM,INDF »“—êÌ
+W * P P œ—
+W * N N,SING,COM,GEN ﬂ«—
+W * N N,SING,COM ÃÂ«‰
+W * ADJ ADJ,SIM ÅœÌœ
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 ¬„œ
+W * DELM DELM .
+W * N N,SING,COM,GEN œ‰Ì«Ì
+W * N N,SING,DIR €—»
+W * P P »Â
+W * N N,SING,COM,INDF ‰Ê⁄Ì
+W * N N,SING,COM,GEN ﬂ„»Êœ
+W * N N,SING,COM,GEN ÊÌ «„Ì‰
+W * N N,SING,COM —Ê‰ﬁ
+W * ADV ADV,GENR,REPT »«“
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 ê‘ 
+W * DELM DELM .
+W * N N,PL,COM,GEN ÊÃÊÂ
+W * ADJ ADJ,SIM „À» 
+W * CON CON Ê
+W * ADJ ADJ,SIM,GEN „‰›Ì
+W * N N,SING,DIR ‘—ﬁ
+W * RA RA —«
+W * P P œ—
+W * N N,SING,COM —«»ÿÂ
+W * P P »«
+W * N N,SING,COM ’‰⁄ 
+W * P P œ—
+W * N N,SING,COM,GEN ﬂ‰«—
+W * CON CON Â„
+W * V V,SUB,POS,4 »ê–«—Ì„
+W * DELM DELM :
+W * N N,PL,COM,GEN ÊÃÊÂ
+W * ADJ ADJ,SIM „À» 
+W * DELM DELM :
+W * N N,SING,NUM 1
+W * DELM DELM ‹
+W * N N,SING,LOC,PR ¬”Ì«
+W * N N,SING,COM,INDF “„«‰Ì
+W * N N,SING,COM „Âœ
+W * N N,SING,COM  „œ‰
+W * ADJ ADJ,INO »ÊœÂ
+W * DELM DELM °
+W * CON CON Ê
+W * N N,SING,COM,GEN Õ—ﬂ 
+W * ADJ ADJ,SIM,GEN  „œ‰Ì
+W * N N,SING,DIR €—»
+W * P P «“
+W * PRO PRO,DEMO,SING ¬‰
+W * N N,SING,COM ‰‘√ 
+W * ADJ ADJ,INO ê—› Â
+W * N N,SING,TIME Å”
+W * ADV ADV,I ç—«
+W * ADV ADV,GENR,TIME «ﬂ‰Ê‰
+W * V V,SUB,NEG,3 ‰ Ê«‰œ
+W * N N,SING,COM,GEN  Ê«‰
+W * ADJ ADJ,SIM,GEN ê–‘ Â
+W * PRO PRO,R,XOD ŒÊœ
+W * RA RA —«
+W * V V,SUB,POS,3 »«“Ì«»œ
+W * DELM DELM ø
+W * N N,SING,NUM 2
+W * DELM DELM ‹
+W * N N,SING,DIR ‘—ﬁ
+W * N N,PL,TIME ﬁ—‰Â«
+W * N N,SING,COM «” —«Õ 
+W * ADJ ADJ,INO ﬂ—œÂ
+W * V V,PRE,SIM «” 
+W * CON CON Ê
+W * ADV ADV,GENR,TIME «ﬂ‰Ê‰
+W * P P œ—
+W * N N,SING,COM,GEN »—«»—
+W * N N,PL,COM,GEN «‰êÌ“‘Â«Ì
+W * N N,SING,COM,GEN œ‰Ì«Ì
+W * ADJ ADJ,SIM ÃœÌœ
+W * DELM DELM °
+W * ADJ ADJ,SIM  «“Â
+W * N N,SING,COM ‰›”
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * ADJ ADJ,SIM  «“Â
+W * N N,SING,COM ‰›”
+W * N N,SING,NFL »Êœ‰
+W * DELM DELM °
+W * N N,SING,COM «—«œÂ
+W * CON CON Ê
+W * N N,SING,COM ‘Êﬁ
+W * RA RA —«
+W * P P »Â
+W * N N,SING,COM ﬂ«—
+W * V V,PRS,POS,3 „Ì «‰œ«“œ
+W * DELM DELM .
+W * N N,SING,NUM 3
+W * DELM DELM ‹
+W * QUA QUA »⁄÷Ì
+W * P P «“
+W * N N,PL,COM,GEN œ—” ŒÊ«‰œÂ Â«Ì
+W * N N,SING,DIR „‘—ﬁ
+W * N N,SING,LOC “„Ì‰
+W * DELM DELM °
+W * N N,PL,COM,GEN êÊ«ÂÌÂ«Ì
+W * ADJ ADJ,SIM,INDF ŒÊ»Ì
+W * ADJ ADJ,SIM Õ«ﬂÌ
+W * P P «“
+W * N N,SING,COM,GEN ﬁ«»·Ì 
+W * ADJ ADJ,SIM,GEN –« Ì
+W * N N,SING,GR,GEN „—œ„
+W * DET DET «Ì‰
+W * N N,SING,LOC „‰ÿﬁÂ
+W * P P «“
+W * PRO PRO,R,XOD ŒÊœ
+W * N N,SING,COM ‰‘«‰
+W * V V,PA,NAR,POS,6 œ«œÂ «‰œ
+W * DELM DELM .
+W * CON CON Êﬁ Ì
+W * PRO PRO,personal,PL,3 ¬‰«‰
+W * V V,PA,SIM,POS,6 —”Ìœ‰œ
+W * DELM DELM °
+W * ADV ADV,I ç—«
+W * N N,PL,COM,GEN Â„”«‰«‰
+W * PRO PRO,personal,PL,3 ¬‰«‰
+W * V V,SUB,NEG,3 ‰—”‰œ
+W * DELM DELM ø
+W * PRO PRO,DEMO,SING «Ì‰
+W * V V,PRS,POS,3 „Ì ‰„«Ìœ
+W * CON CON ﬂÂ
+W * N N,SING,COM ŒÊ‰
+W * CON CON Ê
+W * N N,SING,COM ‰é«œ
+W * N N,SING,COM ‰«—”«∆Ì
+W * V V,PRS,NEG,3 ‰œ«—œ
+W * DELM DELM .
+W * N N,SING,NUM 4
+W * DELM DELM ‹
+W * N N,SING,DIR ‘—ﬁ
+W * ADV ADV,GENR,SIM Â‰Ê“
+W * P P «“
+W * N N,PL,COM,GEN „‰«»⁄
+W * ADJ ADJ,SIM,GEN ”—‘«—
+W * ADJ ADJ,SIM,GEN ÿ»Ì⁄Ì
+W * ADJ ADJ,SIM »—ŒÊ—œ«—
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * N N,SING,NUM 5
+W * DELM DELM ‹
+W * N N,PL,GR,AFF,3 „—œ„‘
+W * ADV ADV,GENR,SIM Â‰Ê“
+W * ADJ ADJ,CMPR ﬁ‰«⁄  ÅÌ‘Â  —
+W * P P «“
+W * N N,PL,COM €—»Ì«‰
+W * V V,PRS,POS,6 Â” ‰œ
+W * DELM DELM °
+W * CON CON Ê
+W * IF IF «ê—
+W * N N,SING,COM,GEN “„Ì‰ÂÒ
+W * ADJ ADJ,SIM „‰«”»
+W * N N,SING,COM ›—«Â„
+W * V V,SUB,POS,3 ê—œœ
+W * V V,PRS,POS,6 „Ì  Ê«‰‰œ
+W * ADJ ADJ,SIM ”Œ  ﬂÊ‘
+W * V V,SUB,POS,6 »«‘‰œ
+W * DELM DELM .
+W * N N,SING,NUM 6
+W * DELM DELM ‹
+W * N N,SING,GR,GEN Ã„⁄Ì 
+W * ADJ ADJ,SIM,GEN ›—«Ê«‰
+W * N N,SING,DIR ‘—ﬁ
+W * DELM DELM °
+W * DET DET Â„«‰
+W * SPEC SPEC êÊ‰Â
+W * CON CON ﬂÂ
+W * N N,SING,COM,GEN Ã‰»ÂÒ
+W * ADJ ADJ,SIM „‰›Ì
+W * V V,PRS,POS,3 œ«—œ
+W * DELM DELM °
+W * V V,PRS,POS,3 „Ì  Ê«‰œ
+W * P P «“
+W * N N,SING,COM,GEN ÃÂ 
+W * ADJ ADJ,SIM œÌê—
+W * DELM DELM °
+W * ADJ ADJ,SIM Õ—ﬂ  ”«“
+W * V V,SUB,POS,3 »«‘œ
+W * DELM DELM °
+W * P P »Â
+W * N N,SING,COM,GEN ‘—ÿ
+W * PRO PRO,DEMO,SING ¬‰
+W * CON CON ﬂÂ
+W * ADV ADV,GENR,SIM œ—” 
+W * P P »Â
+W * N N,SING,COM ﬂ«—
+W * V V,SUB,POS,3 »Ì› œ
+W * DELM DELM .
+W * N N,SING,COM,GEN „—ﬂ“
+W * ADJ ADJ,SIM,GEN «”·«„Ì
+W * N N,SING,LOC,PR «‰ê·Ì”
+W * P P »«
+W * N N,SING,COM,GEN Â„ﬂ«—Ì
+W * QUA QUA Ã„⁄Ì
+W * P P «“
+W * ADJ ADJ,SIM  «“Â
+W * N N,PL,COM „”·„«‰«‰
+W * N N,SING,COM «ﬁœ«„
+W * P P »Â
+W * N N,SING,COM œ⁄Ê 
+W * P P «“
+W * N N,PL,COM,GEN Â„”«Ìê«‰
+W * DET DET «Ì‰
+W * N N,SING,COM „—ﬂ“
+W * ADJ ADJ,CMPR «⁄„
+W * P P «“
+W * ADJ ADJ,SIM „”·„«‰
+W * CON CON Ê
+W * N N,PL,COM €Ì—„”·„«‰
+W * V V,PA,SIM,POS,3 ﬂ—œ
+W * CON CON  «
+W * PRO PRO,DEMO,PL ¬‰Â«
+W * RA RA —«
+W * P P »«
+W * N N,PL,COM,GEN ›⁄«·Ì Â«Ì
+W * N N,SING,COM,GEN „—ﬂ“
+W * ADJ ADJ,SIM «”·«„Ì
+W * DELM DELM °
+W * N N,SING,COM,GEN Â‰—
+W * ADJ ADJ,SIM «”·«„Ì
+W * CON CON Ê
+W * N N,PL,COM,GEN  ⁄«·Ì„
+W * ADJ ADJ,SIM,GEN ﬂ·Ì
+W * N N,SING,COM «”·«„
+W * ADJ ADJ,SIM ¬‘‰«
+W * V V,SUB,POS,3 ﬂ‰œ
+W * DELM DELM .
+W * N N,PL,COM,GEN ‘Â—Ê‰œ«‰
+W * ADJ ADJ,SIM «‰ê·Ì”Ì
+W * CON CON ﬂÂ
+W * N N,SING,COM,GEN œ⁄Ê 
+W * N N,SING,COM,GEN „—ﬂ“
+W * ADJ ADJ,SIM,GEN «”·«„Ì
+W * N N,SING,LOC,PR «‰ê·Ì”
+W * RA RA —«
+W * P P,GEN »—«Ì
+W * N N,SING,COM,GEN Õ÷Ê—
+W * P P œ—
+W * N N,SING,COM,INDF »—‰«„Â «Ì
+W * ADJ ADJ,SIM ÊÌéÂ
+W * ADJ ADJ,INO Å–Ì—› Â
+W * V V,PA,SIM,POS,6 »Êœ‰œ
+W * P P »«
+W * N N,SING,COM ‰«»«Ê—Ì
+W * CON CON Ê
+W * N N,SING,COM,INDF ‰ê«ÂÌ
+W * ADJ ADJ,SIM  Õ”Ì‰ »—«‰êÌ“
+W * DELM DELM °
+W * P P,GEN Ê«—œ
+W * N N,SING,COM,GEN „—ﬂ“
+W * ADJ ADJ,SIM,GEN «”·«„Ì
+W * N N,SING,LOC,PR «‰ê·Ì”
+W * V V,PA,PRG,POS,6 „Ì ‘œ‰œ
+W * DELM DELM .
+W * N N,SING,COM »‰«
+W * P P »Â
+W * N N,SING,COM,GEN ê“«—‘
+W * N N,PL,COM,GEN —Ê«»ÿ
+W * ADJ ADJ,SIM,GEN ⁄„Ê„Ì
+W * N N,SING,COM,GEN „—ﬂ“
+W * ADJ ADJ,SIM,GEN «”·«„Ì
+W * N N,SING,LOC,PR «‰ê·Ì”
+W * DELM DELM °
+W * DET DET «Ì‰
+W * N N,SING,COM »—‰«„Â
+W * CON CON ﬂÂ
+W * ADJ ADJ,SUP ‰Œ” Ì‰
+W * N N,SING,COM,GEN  Ã—»Â
+W * N N,SING,COM „—ﬂ“
+W * P P œ—
+W * N N,SING,COM œ⁄Ê 
+W * P P «“
+W * N N,PL,COM €Ì—„”·„«‰«‰
+W * P P,GEN »—«Ì
+W * N N,SING,COM ¬‘‰«ÌÌ
+W * P P »«
+W * N N,PL,COM,GEN  ⁄«·Ì„
+W * ADJ ADJ,SIM,GEN ⁄«·ÌÂ
+W * ADJ ADJ,SIM «”·«„Ì
+W * V V,PA,SIM,POS,3 »Êœ
+W * CON CON Â—ç‰œ
+W * P P »«
+W * N N,PL,COM,INDF ﬂ«” ÌÂ«ÌÌ
+W * ADJ ADJ,SIM Â„—«Â
+W * V V,PA,SIM,POS,3 »Êœ
+W * CON CON Ê·Ì
+W * N N,SING,COM ‘—Ê⁄
+W * ADV ADV,deg,SIM »”Ì«—
+W * ADJ ADJ,SIM,INDF ŒÊ»Ì
+W * V V,PA,SIM,POS,3 »Êœ
+W * DELM DELM .
+W * N N,SING,COM,GEN „ÕÌÿ
+W * ADJ ADJ,SIM ›—Â‰êÌ
+W * CON CON ﬂÂ
+W * P P,GEN »—«Ì
+W * DET DET «Ì‰
+W * N N,SING,COM »—‰«„Â
+W * N N,SING,COM  œ«—ﬂ
+W * ADJ ADJ,INO œÌœÂ
+W * ADJ ADJ,INO ‘œÂ
+W * V V,PA,SIM,POS,3 »Êœ
+W * N N,SING,COM,GEN ê–—
+W * ADJ ADJ,SIM,INDF „Œ ’—Ì
+W * P P »—
+W * N N,PL,COM,INDF »Œ‘Â«ÌÌ
+W * P P «“
+W * N N,SING,COM,GEN „Ì—«À
+W * ADJ ADJ,SIM,GEN ›—Â‰êÌ
+W * N N,SING,COM,GEN ”—“„Ì‰
+W * N N,SING,COM «œ»
+W * DELM DELM °
+W * N N,SING,COM Â‰—
+W * DELM DELM °
+W * N N,SING,COM «‰œÌ‘Â
+W * CON CON Ê
+W * N N,PL,COM,GEN „⁄«—›
+W * ADJ ADJ,SIM,GEN œÌ‰Ì
+W * N N,SING,LOC,GEN ﬂ‘Ê—
+W * ADJ ADJ,SIM,AFF,4 ⁄“Ì“„«‰
+W * DELM DELM °
+W * N N,SING,LOC,PR «Ì—«‰
+W * RA RA —«
+W * V V,PA,SIM,POS,3 œ«‘ 
+W * DELM DELM .
+W * P P œ—
+W * N N,SING,LOC,GEN ê«·—Ì
+W * N N,SING,COM «—„
+W * DELM DELM °
+W * N N,SING,COM,GEN „—ﬂ“
+W * ADJ ADJ,SIM,GEN «”·«„Ì
+W * N N,SING,LOC,PR «‰ê·Ì”
+W * N N,PL,COM,GEN ¬À«—
+W * N N,SING,COM Œÿ«ÿÌ
+W * CON CON Ê
+W * N N,SING,COM,GEN ‰ﬁ«‘Ì
+W * N N,SING,COM,GEN Œÿ
+W * N N,SING,SURN «” «œ
+W * N N,SING,PR Ã»«—Ì
+W * N N,SING,COM,GEN Ã·ÊÂ
+W * ADJ ADJ,SIM,GEN “Ì»«Ì
+W * N N,SING,COM,GEN Â‰—
+W * N N,SING,COM Œÿ«ÿÌ
+W * RA RA —«
+W * P P œ—
+W * N N,SING,COM,GEN ﬂ‰«—
+W * N N,PL,COM,GEN ‰ﬁ«‘ÌÂ«Ì
+W * N N,SING,COM,GEN „Ì‰Ì« Ê—
+W * N N,PL,COM,GEN «”« Ìœ
+W * ADJ ADJ,SIM „Õ —„
+W * N N,SING,SURN,GEN Œ«‰„
+W * N N,SING,PR ›«÷·Ì ‰é«œ
+W * CON CON Ê
+W * N N,SING,SURN,GEN Œ«‰„
+W * N N,SING,PR »Ì«‰Ì
+W * CON CON ﬂÂ
+W * P P «“
+W * N N,SING,COM,GEN Ÿ—«› 
+W * ADJ ADJ,SIM,INDF ŒÌ—Â ﬂ‰‰œÂ «Ì
+W * ADJ ADJ,SIM »—ŒÊ—œ«—
+W * V V,PA,SIM,POS,3 »Êœ
+W * DELM DELM °
+W * N N,SING,COM,GEN  ÊÃÂ
+W * N N,PL,COM,GEN ‘Â—Ê‰œ«‰
+W * ADJ ADJ,SIM «‰ê·Ì”Ì
+W * RA RA —«
+W * P P »Â
+W * PRO PRO,R,XOD ŒÊœ
+W * N N,SING,COM Ã–»
+W * ADJ ADJ,INO ﬂ—œÂ
+W * V V,PA,SIM,POS,3 »Êœ
+W * DELM DELM .
+W * N N,SING,COM,GEN Õ÷Ê—
+W * N N,SING,SURN,GEN Œ«‰„
+W * N N,SING,PR ›«÷·Ì ‰é«œ
+W * CON CON Ê
+W * N N,SING,SURN,GEN Œ«‰„
+W * N N,SING,PR »Ì«‰Ì
+W * P P œ—
+W * N N,SING,COM,GEN ﬂ‰«—
+W * N N,PL,COM,AFF,6 ¬À«—‘«‰
+W * N N,PL,COM,INDF ê› êÊÂ«ÌÌ
+W * RA RA —«
+W * N N,SING,COM ›—«Â„
+W * ADJ ADJ,INO ﬂ—œÂ
+W * V V,PA,SIM,POS,3 »Êœ
+W * CON CON ﬂÂ
+W * P P »Â
+W * N N,SING,COM,GEN ÿÊ—
+W * ADJ ADJ,SIM Õ „
+W * N N,SING,COM,GEN „Õ’Ê·
+W * PRO PRO,DEMO,SING ¬‰
+W * N N,SING,COM,GEN „⁄—›Ì
+W * N N,SING,COM,GEN  „œ‰
+W * ADJ ADJ,SIM,GEN Â‰—ŒÌ“
+W * N N,SING,LOC,PR,GEN «Ì—«‰
+W * ADJ ADJ,SIM «”·«„Ì
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 »Êœ
+W * DELM DELM .
+W * P P œ—
+W * N N,SING,COM,GEN »Œ‘
+W * ADJ ADJ,SIM,INDF œÌê—Ì
+W * N N,PL,COM,GEN ŒÊ«Â—«‰
+W * ADJ ADJ,SIM Â‰—„‰œ
+W * N N,SING,PR »Ìêœ·Ì
+W * CON CON ﬂÂ
+W * P P œ—
+W * N N,SING,COM,GEN  –ÂÌ»
+W * ADJ ADJ,SIM ﬂ«—Ì
+W * CON CON Ê
+W * N N,SING,COM,GEN Â‰—
+W * N N,SING,COM ﬁ«·Ì»«›Ì
+W * N N,SING,COM „Â«— 
+W * V V,PA,SIM,POS,6 œ«‘ ‰œ
+W * DELM DELM °
+W * P P »«
+W * N N,SING,COM ‰‘«‰
+W * N N,SING,NFL,GEN œ«œ‰
+W * ADJ ADJ,SIM,GEN ⁄„·Ì
+W * N N,SING,COM,GEN ﬂ«—
+W * PRO PRO,R,XOD ŒÊœ
+W * N N,SING,COM,GEN  ÊÃÂ
+W * N N,PL,COM »«“œÌœﬂ‰‰œê«‰
+W * RA RA —«
+W * N N,SING,COM Ã·»
+W * ADJ ADJ,INO ﬂ—œÂ
+W * V V,PA,SIM,POS,6 »Êœ‰œ
+W * DELM DELM .
+W * N N,PL,COM,GEN —Ê«»ÿ
+W * ADJ ADJ,SIM,GEN ⁄„Ê„Ì
+W * N N,SING,COM,GEN „—ﬂ“
+W * ADJ ADJ,SIM,GEN «”·«„Ì
+W * N N,SING,LOC,PR «‰ê·Ì”
+W * P P œ—
+W * N N,SING,COM,GEN «œ«„ÂÒ
+W * N N,SING,COM,GEN ê“«—‘
+W * PRO PRO,R,XOD ŒÊœ
+W * V V,PRS,POS,3 „Ì «›“«Ìœ
+W * DELM DELM :
+W * P P œ—
+W * N N,SING,COM,GEN „ÕÌÿ
+W * ADJ ADJ,SIM ›—Â‰êÌ
+W * CON CON ﬂÂ
+W * ADV ADV,GENR,TIME Â„Ê«—Â
+W * N N,PL,COM,GEN —”«‰Â Â«Ì
+W * N N,SING,DIR €—»
+W * DELM DELM °
+W * N N,SING,COM «”·«„
+W * CON CON Ê
+W * N N,PL,COM „”·„Ì‰
+W * RA RA —«
+W * ADJ ADJ,SIM Â„—«Â
+W * P P »«
+W * N N,SING,COM Œ‘Ê‰ 
+W * CON CON Ê
+W * N N,SING,COM  —Ê—
+W * N N,SING,COM „⁄—›Ì
+W * V V,PA,NAR,POS,6 ﬂ—œÂ «‰œ
+W * DELM DELM °
+W * P P »Â
+W * N N,SING,COM ‰„«Ì‘
+W * N N,SING,NFL,GEN ê–«‘ ‰
+W * N N,SING,COM,GEN çÂ—Â
+W * ADJ ADJ,SIM ÕﬁÌﬁÌ
+W * CON CON Ê
+W * ADJ ADJ,SIM  „œ‰ ŒÌ“
+W * CON CON Ê
+W * ADJ ADJ,SIM,GEN ›—Â‰ê ”«“
+W * N N,SING,COM «”·«„
+W * ADV ADV,GENR,SIM Õœ«ﬁ·
+W * N N,SING,COM,INDF «ﬁœ«„Ì
+W * V V,PRE,SIM «” 
+W * CON CON ﬂÂ
+W * P P »—
+W * N N,SING,COM,GEN ⁄ÂœÂ
+W * V V,PRE,PROC,3 „«” 
+W * DELM DELM .
+W * P P »Â
+W * N N,SING,COM,GEN ÿÊ—
+W * ADJ ADJ,SIM Õ „
+W * N N,SING,COM,GEN ê› „«‰
+W * ADJ ADJ,SIM ›—Â‰êÌ
+W * ADV ADV,GENR,SIM ›ﬁÿ
+W * N N,SING,COM,GEN „Õ’Ê·
+W * N N,SING,COM ê› êÊ
+W * CON CON Ê
+W * N N,PL,COM,GEN œÌ«·êÂ«Ì
+W * ADJ ADJ,SIM ›·”›Ì
+W * CON CON Ê
+W * ADJ ADJ,SIM ﬂ·«„Ì
+W * V V,PRS,NEG,3 ‰Ì” 
+W * DELM DELM .
+W * CON CON »·ﬂÂ
+W * N N,SING,COM,GEN ⁄—÷Â
+W * N N,SING,COM,GEN „Ÿ«Â—
+W * N N,SING,COM,GEN  „œ‰
+W * ADJ ADJ,SIM «”·«„Ì
+W * CON CON ﬂÂ
+W * P P «“
+W * N N,SING,COM,GEN —ÊÕ
+W * ADJ ADJ,SIM „⁄‰ÊÌ
+W * CON CON Ê
+W * ADJ ADJ,SIM,GEN ⁄—›«‰Ì
+W * ADJ ADJ,SIM ⁄„Ìﬁ
+W * V V,PRE,ADJC,6 »—ŒÊ—œ«—‰œ
+W * P P œ—
+W * DET DET «Ì‰
+W * N N,SING,COM —«” «
+W * N N,SING,COM,GEN ‰ﬁ‘
+W * ADJ ADJ,SIM ê” —œÂ
+W * CON CON Ê
+W * ADJ ADJ,SIM,INDF ⁄„ÌﬁÌ
+W * RA RA —«
+W * N N,SING,COM «Ì›«
+W * V V,PRS,POS,3 „Ì ﬂ‰œ
+W * DELM DELM .
+W * N N,PL,COM,GEN ‘Â—Ê‰œ«‰
+W * ADJ ADJ,SIM «‰ê·Ì”Ì
+W * N N,SING,TIME Å”
+W * P P «“
+W * N N,SING,NUM ”Â
+W * N N,SING,TIME ”«⁄ 
+W * N N,SING,COM »«“œÌœ
+W * CON CON Ê
+W * N N,SING,COM „‘«—ﬂ 
+W * P P œ—
+W * N N,PL,COM,GEN »—‰«„Â Â«Ì
+W * N N,SING,COM ¬‘‰«ÌÌ
+W * P P »«
+W * N N,SING,COM ›—Â‰ê
+W * CON CON Ê
+W * N N,SING,COM Â‰—
+W * CON CON Ê
+W * N N,SING,COM,GEN  „œ‰
+W * ADJ ADJ,SIM «”·«„Ì
+W * CON CON Ê
+W * P P »«
+W * N N,SING,NFL,GEN œÌœ‰
+W * N N,PL,COM,GEN »—‰«„Â Â«Ì
+W * ADJ ADJ,SIM „ ‰Ê⁄
+W * P P »«
+W * N N,SING,COM,INDF çÂ—Â «Ì
+W * ADJ ADJ,SIM ‘«œ
+W * CON CON Ê
+W * P P »«
+W * N N,SING,COM,GEN  ﬁ«÷«Ì
+W * N N,SING,COM,GEN »—ê“«—Ì
+W * ADJ ADJ,SIM,GEN „Ãœœ
+W * SPEC SPEC ç‰Ì‰
+W * N N,PL,COM,INDF »—‰«„Â Â«ÌÌ
+W * N N,SING,COM,GEN „—ﬂ“
+W * ADJ ADJ,SIM,GEN «”·«„Ì
+W * N N,SING,LOC,PR «‰ê·Ì”
+W * RA RA —«
+W * N N,SING,COM  —ﬂ
+W * V V,PA,SIM,POS,6 ﬂ—œ‰œ
+W * DELM DELM .
+W * N N,SING,GR,INDF ê—ÊÂÌ
+W * P P «“
+W * N N,PL,COM „—«Ã⁄Â ﬂ‰‰œê«‰
+W * ADJ ADJ,SIM,GEN ŒÊ«” «—
+W * N N,SING,COM,GEN ¬‘‰«ÌÌ
+W * ADJ ADJ,CMPR »Ì‘ —
+W * P P »«
+W * N N,PL,COM,GEN  ⁄«·Ì„
+W * ADJ ADJ,SIM «”·«„Ì
+W * RA RA —«
+W * V V,PA,SIM,POS,6 œ«‘ ‰œ
+W * CON CON ﬂÂ
+W * P P œ—
+W * DET DET «Ì‰
+W * N N,SING,COM “„Ì‰Â
+W * N N,PL,COM,INDF ﬂ «»Â«ÌÌ
+W * CON CON ﬂÂ
+W * N N,SING,COM,GEN „ƒ””ÂÒ
+W * N N,SING,COM «”Å—Ì‰ê
+W * P P,GEN »—«Ì
+W * SPEC SPEC ç‰Ì‰
+W * N N,SING,COM,INDF »—‰«„Â «Ì
+W * N N,SING,COM  œ«—ﬂ
+W * ADJ ADJ,INO œÌœÂ
+W * V V,PA,SIM,POS,3 »Êœ
+W * P P œ—
+W * N N,SING,COM,GEN «Œ Ì«—
+W * PRO PRO,personal,PL,3 ¬‰«‰
+W * N N,SING,COM ﬁ—«—
+W * V V,PA,SIM,POS,3 ê—› 
+W * DELM DELM .
+W * DET DET «Ì‰
+W * N N,PL,COM »—Ê‘Ê—Â«
+W * CON CON Ê
+W * N N,PL,COM ﬂ «»çÂ Â«
+W * P P »«
+W * N N,SING,COM,INDF „Õ Ê«ÌÌ
+W * ADJ ADJ,SIM €‰Ì
+W * CON CON Ê
+W * N N,SING,COM,INDF ﬂÌ›Ì Ì
+W * ADJ ADJ,SIM “Ì»«
+W * N N,SING,COM  ÂÌÂ
+W * ADJ ADJ,INO ‘œÂ
+W * V V,PA,SIM,POS,3 »Êœ
+W * CON CON Ê
+W * N N,PL,COM,GEN «»⁄«œ
+W * ADJ ADJ,SIM,GEN „Œ ·›
+W * N N,SING,COM «”·«„
+W * CON CON Ê
+W * N N,SING,COM,GEN “‰œê«‰Ì
+W * N N,SING,PR,GEN —”Ê·
+W * ADJ ADJ,SIM «ﬂ—„
+W * RA RA —«
+W * N N,SING,COM „⁄—›Ì
+W * V V,PA,PRG,POS,3 „Ì ﬂ—œ
+W * DELM DELM .
+W * DET DET «Ì‰
+W * N N,SING,COM „Ã„Ê⁄Â
+W * P P «“
+W * N N,PL,COM ﬂ «»Â«
+W * N N,SING,COM,GEN „Ê—œ
+W * N N,SING,COM,GEN «” ﬁ»«·
+W * N N,PL,COM,GEN ‘Â—Ê‰œ«‰
+W * ADJ ADJ,SIM „”·„«‰
+W * CON CON Ê
+W * ADJ ADJ,SIM €Ì—„”·„«‰
+W * N N,SING,COM ﬁ—«—
+W * V V,PA,SIM,POS,3 ê—› 
+W * DELM DELM .
+W * P P œ—
+W * DET DET «Ì‰
+W * N N,SING,COM »—‰«„Â
+W * N N,SING,COM,GEN ⁄·«ÊÂ
+W * P P »—
+W * N N,SING,COM,GEN »—ê“«—Ì
+W * N N,SING,COM,GEN ‰„«Ì‘ê«Â
+W * N N,PL,COM,GEN ¬À«—
+W * N N,SING,COM Œÿ«ÿÌ
+W * CON CON Ê
+W * N N,SING,COM,GEN ‰ﬁ«‘Ì
+W * N N,SING,COM „Ì‰Ì« Ê—
+W * DELM DELM °
+W * N N,SING,COM,GEN ‰„«Ì‘ê«Â
+W * N N,SING,COM ›—‘
+W * DELM DELM °
+W * N N,SING,COM ê·Ì„
+W * CON CON Ê
+W * N N,SING,COM ê»Â
+W * DELM DELM °
+W * N N,SING,COM,GEN ‰„«Ì‘ê«Â
+W * N N,PL,COM,GEN ’‰«Ì⁄
+W * ADJ ADJ,SIM œ” Ì
+W * DELM DELM °
+W * N N,SING,COM,INDF »Œ‘Ì
+W * CON CON ‰Ì“
+W * P P »Â
+W * N N,SING,COM,GEN „⁄—›Ì
+W * N N,PL,COM,GEN Ã«–»Â Â«Ì
+W * ADJ ADJ,SIM,GEN ›—Â‰êÌ
+W * N N,PL,LOC,GEN ﬂ‘Ê—Â«Ì
+W * ADJ ADJ,SIM «”·«„Ì
+W * N N,SING,COM «Œ ’«’
+W * ADJ ADJ,INO œ«œÂ
+W * ADJ ADJ,INO ‘œÂ
+W * V V,PA,SIM,POS,3 »Êœ
+W * CON CON ﬂÂ
+W * N N,PL,COM,GEN ”›«— Œ«‰Â Â«Ì
+W * N N,PL,LOC,GEN ﬂ‘Ê—Â«Ì
+W * ADJ ADJ,SIM «”·«„Ì
+W * P P »«
+W * N N,SING,NFL,GEN ›—” «œ‰
+W * N N,PL,COM ÅÊ” —Â«
+W * DELM DELM °
+W * N N,PL,COM »—Ê‘Ê—Â«
+W * CON CON Ê
+W * N N,PL,COM,GEN ﬂ «»çÂ Â«Ì
+W * ADJ ADJ,SIM „Œ ·›
+W * P P œ—
+W * DET DET «Ì‰
+W * N N,SING,COM Œ’Ê’
+W * N N,SING,COM „‘«—ﬂ 
+W * ADJ ADJ,INO ﬂ—œÂ
+W * V V,PA,SIM,POS,6 »Êœ‰œ
+W * DELM DELM .
+W * P P œ—
+W * N N,SING,COM,GEN ﬂ‰«—
+W * N N,PL,COM,GEN ‰„«Ì‘ê«ÂÂ«Ì
+W * ADJ ADJ,SIM „ ‰Ê⁄
+W * DELM DELM °
+W * N N,PL,COM,INDF »—‰«„Â Â«ÌÌ
+W * ADJ ADJ,SIM,GEN ‘«„·
+W * N N,SING,COM,GEN ”Œ‰—«‰Ì
+W * N N,SING,COM «›  «ÕÌÂ
+W * P P,GEN  Ê”ÿ
+W * N N,SING,SURN ÕÃ  «·«”·«„
+W * N N,SING,PR ﬂ«“—Ê‰Ì
+W * DELM DELM °
+W * N N,SING,COM,GEN ‰„«Ì‘
+W * N N,PL,COM,GEN ›Ì·„Â«Ì
+W * ADJ ADJ,SIM ﬂÊ «Â
+W * DELM DELM °
+W * N N,SING,COM,GEN „Ê”ÌﬁÌ
+W * ADJ ADJ,SIM Å«ﬂ” «‰Ì
+W * CON CON Ê
+W * N N,SING,COM,GEN ”Œ‰—«‰Ì
+W * N N,SING,SURN,GEN Œ«‰„
+W * N N,SING,SURN œﬂ —
+W * N N,SING,PR ”—ŒÊ‘
+W * P P œ—
+W * N N,SING,COM,GEN „Ê—œ
+W * N N,PL,COM,GEN «›”«‰Â Â«Ì
+W * N N,SING,PR ‘«Â‰«„Â
+W * V V,PA,SIM,POS,3 »Êœ
+W * DELM DELM .
+W * N N,SING,COM,GEN  Ê«‘ÌÕ
+W * ADJ ADJ,SIM „ ‰Ê⁄
+W * CON CON ﬂÂ
+W * P P,GEN  Ê”ÿ
+W * N N,SING,COM,GEN ê—ÊÂ
+W * ADJ ADJ,SIM,INDF Œ«’Ì
+W * P P »Â
+W * N N,SING,COM,GEN “»«‰
+W * ADJ ADJ,SIM ⁄—»Ì
+W * ADJ ADJ,SIM Â„—«Â
+W * P P »«
+W * N N,SING,COM,GEN  —Ã„Â
+W * ADJ ADJ,SIM «‰ê·Ì”Ì
+W * N N,SING,COM,GEN —ÊÌ
+W * N N,SING,COM,GEN ’›ÕÂ
+W * N N,SING,COM ‰„«Ì‘
+W * N N,SING,COM «—«∆Â
+W * V V,PA,PRG,POS,3 „Ì ‘œ
+W * CON CON Ê
+W * N N,SING,COM,GEN ”—Êœ
+W * N N,SING,COM,GEN ê—ÊÂ
+W * N N,PL,COM,GEN »—«œ—«‰
+W * ADJ ADJ,SIM ¬·»«‰Ì«ÌÌ
+W * N N,PL,COM,GEN »Œ‘Â«Ì
+W * ADJ ADJ,SIM,INDF œÌê—Ì
+W * P P «“
+W * DET DET «Ì‰
+W * N N,SING,COM »—‰«„Â
+W * V V,PA,SIM,POS,3 »Êœ
+W * DELM DELM .
+W * P P œ—
+W * N N,SING,COM,GEN ”Œ‰—«‰Ì
+W * N N,SING,COM «Œ  «„ÌÂ
+W * DELM DELM °
+W * N N,SING,SURN ¬Ì  «··Â
+W * N N,SING,PR «—«ﬂÌ
+W * DELM DELM °
+W * N N,SING,COM,GEN —∆Ì”
+W * N N,SING,COM,GEN „—ﬂ“
+W * ADJ ADJ,SIM,GEN «”·«„Ì
+W * N N,SING,LOC,PR «‰ê·Ì”
+W * P P œ—
+W * N N,PL,COM,INDF »Ì«‰« Ì
+W * ADJ ADJ,SIM ﬂÊ «Â
+W * N N,SING,COM,GEN ‰ê«Â
+W * ADJ ADJ,SIM,GEN ÃÂ«‰‘„Ê·
+W * N N,SING,COM «”·«„
+W * CON CON Ê
+W * N N,SING,COM,GEN  ÊÃÂ
+W * N N,SING,COM «”·«„
+W * P P »Â
+W * N N,PL,COM,GEN ÅÌ—Ê«‰
+W * N N,PL,COM,GEN «œÌ«‰
+W * ADJ ADJ,SIM «»—«ÂÌ„Ì
+W * CON CON Ê
+W * N N,SING,COM,GEN ÷—Ê— 
+W * N N,SING,COM  ⁄«—›
+W * CON CON Ê
+W * N N,SING,COM,GEN Â„ﬂ«—Ì
+W * N N,PL,COM,GEN ÅÌ—Ê«‰
+W * N N,PL,COM,GEN «œÌ«‰
+W * ADJ ADJ,SIM «·ÂÌ
+W * P P œ—
+W * N N,SING,COM,GEN Âœ«Ì 
+W * N N,SING,COM Ã«„⁄Â
+W * P P »Â
+W * N N,SING,COM,GEN ”ÊÌ
+W * N N,SING,COM,GEN „⁄‰ÊÌ 
+W * ADJ ADJ,SIM «·ÂÌ
+W * RA RA —«
+W * N N,SING,COM,GEN „Ê—œ
+W * N N,SING,COM »ÕÀ
+W * N N,SING,COM ﬁ—«—
+W * V V,PA,SIM,POS,3 œ«œ
+W * DELM DELM .
+W * N N,SING,COM,GEN Õ—ﬂ 
+W * N N,SING,COM,GEN „—ﬂ“
+W * ADJ ADJ,SIM,GEN «”·«„Ì
+W * N N,SING,LOC,PR «‰ê·Ì”
+W * P P œ—
+W * N N,SING,COM œ⁄Ê 
+W * P P «“
+W * N N,PL,COM Â„”«Ìê«‰
+W * CON CON Ê
+W * N N,PL,COM,GEN ‘Â—Ê‰œ«‰
+W * ADJ ADJ,SIM «‰ê·Ì”Ì
+W * P P »«
+W * N N,SING,COM »Â—Â êÌ—Ì
+W * P P «“
+W * N N,SING,COM,GEN «·êÊÌ
+W * N N,SING,COM Õ—ﬂ 
+W * CON CON Ê
+W * N N,SING,COM,GEN »—ŒÊ—œ
+W * N N,SING,PR,GEN —”Ê·
+W * ADJ ADJ,SIM «ﬂ—„
+W * N N,SING,COM „ÊÃ»
+W * V V,PA,SIM,POS,3 ‘œ
+W * CON CON ﬂÂ
+W * N N,PL,COM,GEN ÅÌ—Ê«‰
+W * PRO PRO,personal,SING,3 «Ê
+W * N N,SING,COM,GEN Ã–»
+W * N N,PL,COM Œ’«∆·
+W * ADJ ADJ,SIM,GEN Å«ﬂ
+W * PRO PRO,personal,SING,3 «Ê
+W * V V,SUB,POS,6 ‘Ê‰œ
+W * CON CON Ê
+W * DET DET Â„Ì‰
+W * N N,SING,COM «„—
+W * P P œ—
+W * N N,SING,COM,GEN «” Ê«—Ì
+W * N N,SING,COM,GEN œÌ‰
+W * N N,SING,COM «”·«„
+W * N N,SING,COM,GEN ‰ﬁ‘
+W * ADJ ADJ,SIM «”«”Ì
+W * V V,PA,SIM,POS,3 œ«‘ 
+W * DELM DELM .
+W * N N,SING,COM,GEN «·êÊÌ
+W * N N,SING,PR,GEN —”Ê·
+W * ADJ ADJ,SIM «ﬂ—„
+W * P P œ—
+W * N N,SING,COM,GEN ‰‘—
+W * N N,PL,COM,GEN  ⁄«·Ì„
+W * ADJ ADJ,SIM «”·«„Ì
+W * ADV ADV,GENR,TIME Â„Ê«—Â
+W * V V,AUX,NIN,POS »«Ìœ
+W * N N,SING,COM,GEN —«Â‰„«Ì
+W * PRO PRO,personal,PL,1 „«
+W * N N,SING,COM ﬁ—«—
+W * V V,SUB,POS,3 êÌ—œ
+W * DELM DELM .
+Sub * SUBJ SUBJ !«Ã „«⁄Ì!
+W * N N,SING,LOC,PR ﬂ—„«‰
+W * DELM DELM ‹
+W * P P »«
+W * N N,SING,COM,GEN Õ÷Ê—
+W * N N,SING,PR,GEN «”„«⁄Ì·
+W * N N,SING,PR ‘Ê‘ —Ì
+W * N N,SING,COM,GEN Ê“Ì—
+W * N N,SING,COM œ«œê” —Ì
+W * DELM DELM °
+W * N N,SING,COM,GEN ”«Œ „«‰
+W * ADJ ADJ,SIM,GEN ÃœÌœ
+W * N N,SING,COM,GEN œ«œê” —Ì
+W * N N,SING,LOC,GEN ‘Â—” «‰
+W * N N,SING,LOC,PR »—œ”Ì—
+W * P P,GEN ÿÌ
+W * N N,SING,COM,INDF „—«”„Ì
+W * N N,SING,COM,GEN „Ê—œ
+W * N N,SING,COM »Â—Â »—œ«—Ì
+W * N N,SING,COM ﬁ—«—
+W * V V,PA,SIM,POS,3 ê—› 
+W * DELM DELM .
+W * DET DET «Ì‰
+W * N N,SING,COM ”«Œ „«‰
+W * P P œ—
+W * N N,SING,COM,INDF “„Ì‰Ì
+W * P P »Â
+W * N N,SING,COM,GEN Ê”⁄ 
+W * N N,SING,NUM 4000
+W * N N,SING,COM „ —„—»⁄
+W * CON CON Ê
+W * N N,SING,COM,GEN “Ì—»‰«Ì
+W * N N,SING,NUM 1200
+W * N N,SING,COM „ —„—»⁄
+W * CON CON Ê
+W * P P »«
+W * N N,SING,COM,GEN ’—›
+W * N N,SING,NUM Ìﬂ
+W * N N,SING,NUM „Ì·Ì«—œ
+W * CON CON Ê
+W * N N,SING,NUM 100
+W * N N,SING,NUM „Ì·ÌÊ‰
+W * N N,SING,CONT —Ì«·
+W * N N,SING,COM «Õœ«À
+W * ADJ ADJ,INO ‘œÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * N N,SING,SURN œﬂ —
+W * N N,SING,PR „Õ›ÊŸÌ
+W * N N,SING,COM,GEN —∆Ì”
+W * N N,SING,COM,GEN ”«“„«‰
+W * N N,SING,COM,GEN Å“‘ﬂÌ
+W * ADJ ADJ,SIM,GEN ﬁ«‰Ê‰Ì
+W * N N,SING,LOC ﬂ‘Ê—
+W * CON CON Ê
+W * N N,SING,PR,GEN «Õ„œÌ
+W * N N,SING,PR „Ì«‰ÃÌ
+W * N N,SING,COM,GEN „⁄«Ê‰
+W * N N,SING,COM,GEN Ê“Ì—
+W * N N,SING,COM œ«œê” —Ì
+W * CON CON ‰Ì“
+W * P P œ—
+W * DET DET «Ì‰
+W * N N,PL,COM „—«”„
+W * N N,SING,COM Õ÷Ê—
+W * V V,PA,SIM,POS,6 œ«‘ ‰œ
+W * DELM DELM .
+W * N N,SING,LOC,GEN ‘Â—” «‰
+W * N N,SING,LOC,PR »—œ”Ì—
+W * P P œ—
+W * N N,SING,NUM 56
+W * MORP MORP,MN,SING,GEN ﬂÌ·Ê„ —Ì
+W * N N,SING,LOC,PR ﬂ—„«‰
+W * ADJ ADJ,SIM Ê«ﬁ⁄
+W * ADJ ADJ,INO ‘œÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+Sub * SUBJ SUBJ !«ﬁ ’«œÌ!
+W * N N,SING,LOC,PR «—œ»Ì·
+W * DELM DELM ‹
+W * N N,SING,COM,GEN «” «‰œ«—
+W * N N,SING,LOC,PR «—œ»Ì·
+W * V V,PA,SIM,POS,3 ê› 
+W * DELM DELM :
+W * ADJ ADJ,SIM »Ì‘
+W * P P «“
+W * N N,SING,NUM 20
+W * N N,SING,NUM „Ì·Ì«—œ
+W * N N,SING,CONT —Ì«·
+W * P P,GEN ÿÌ
+W * N N,SING,TIME,GEN ”«·
+W * ADJ ADJ,SIM ê–‘ Â
+W * P P œ—
+W * N N,SING,COM,GEN ’‰⁄ 
+W * N N,SING,COM,GEN ê—œ‘ê—Ì
+W * DET DET «Ì‰
+W * N N,SING,LOC «” «‰
+W * N N,SING,COM ”—„«ÌÂ ê–«—Ì
+W * N N,SING,COM «‰Ã«„
+W * ADJ ADJ,INO ê—› Â
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * N N,SING,PR,GEN Õ„Ìœ
+W * N N,SING,PR ÿ«Â«ÌÌ
+W * V V,PA,SIM,POS,3 «›“Êœ
+W * DELM DELM :
+W * N N,SING,LOC,GEN ÅÌ” 
+W * N N,SING,COM,GEN «”ﬂÌ
+W * N N,SING,COM,GEN —ÊÌ
+W * N N,SING,COM,GEN »—›
+W * N N,SING,COM,GEN —Ê” «Ì
+W * N N,SING,LOC,PR «·Ê«—”
+W * P P œ—
+W * N N,SING,COM,GEN œ«„‰Â
+W * N N,SING,LOC,PR ”»·«‰
+W * DELM DELM °
+W * N N,SING,LOC,GEN ÅÌ” 
+W * N N,SING,COM,GEN «”ﬂÌ
+W * N N,SING,COM,GEN —ÊÌ
+W * N N,SING,LOC,GEN ç„‰
+W * N N,SING,LOC,GEN „‰ÿﬁÂ
+W * N N,SING,LOC,PR ›‰œﬁ·Ê
+W * DELM DELM °
+W * N N,PL,COM,GEN „ÿ«·⁄« 
+W * N N,SING,COM,GEN ÿ—Õ
+W * ADJ ADJ,SIM,GEN Ã«„⁄
+W * N N,SING,LOC,GEN ‘Â—
+W * ADJ ADJ,SIM,GEN ”Ì«Õ Ì
+W * N N,SING,LOC,PR ”—⁄Ì‰
+W * DELM DELM °
+W * N N,SING,COM,GEN »«“”«“Ì
+W * N N,PL,LOC,GEN ¬»ê—„Â«Ì
+W * ADJ ADJ,SIM „⁄œ‰Ì
+W * DELM DELM °
+W * N N,PL,COM  ⁄„Ì—« 
+W * CON CON Ê
+W * N N,SING,COM,GEN ”«„«‰œÂÌ
+W * N N,SING,COM,GEN „Ã„Ê⁄Â
+W * ADJ ADJ,SIM,GEN  «—ÌŒÌ
+W * N N,SING,COM »ﬁ⁄Â
+W * N N,SING,SURN ‘ÌŒ
+W * N N,SING,PR,GEN ’›Ì «·œÌ‰
+W * N N,SING,PR «—œ»Ì·Ì
+W * DELM DELM °
+W * N N,SING,COM,GEN ”«Œ 
+W * N N,SING,COM,GEN Â ·
+W * N N,SING,COM,GEN ·«·Â
+W * N N,SING,LOC,PR ”—⁄Ì‰
+W * CON CON Ê
+W * N N,SING,COM «ÌÃ«œ
+W * CON CON Ê
+W * N N,SING,COM,GEN »Â”«“Ì
+W * N N,PL,COM,GEN —«Â Â«Ì
+W * N N,PL,LOC,GEN „‰«ÿﬁ
+W * ADJ ADJ,SIM ”Ì«Õ Ì
+W * P P œ—
+W * N N,SING,LOC «” «‰
+W * P P «“
+W * ADJ ADJ,SIM ⁄„œÂ
+W * N N,PL,COM,GEN Å—ÊéÂ Â«Ì
+W * N N,SING,COM ê—œ‘ê—Ì
+W * DELM DELM _
+W * ADJ ADJ,SIM  ›—ÌÕÌ
+W * V V,PRE,SIM «” 
+W * CON CON ﬂÂ
+W * DET DET «Ì‰
+W * N N,SING,COM „»·€
+W * N N,SING,COM,GEN ’—›
+W * PRO PRO,DEMO,PL ¬‰ Â«
+W * ADJ ADJ,INO ‘œÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * PRO PRO,personal,SING,3 ÊÌ
+W * N N,SING,COM  ’—ÌÕ
+W * V V,PA,SIM,POS,3 ﬂ—œ
+W * DELM DELM :
+W * P P,GEN »—«Ì
+W * N N,SING,COM,GEN —Ê‰ﬁ
+W * N N,SING,COM,GEN ’‰⁄ 
+W * N N,SING,COM ê—œ‘ê—Ì
+W * P P œ—
+W * N N,SING,LOC,GEN «” «‰
+W * N N,SING,LOC,PR «—œ»Ì·
+W * CON CON ﬂÂ
+W * ADJ ADJ,SIM,GEN œ«—«Ì
+W * N N,SING,COM,GEN  ‰Ê⁄
+W * ADJ ADJ,SIM “Ì”  „ÕÌÿÌ
+W * DELM DELM °
+W * N N,PL,LOC,GEN ¬»ê—„Â«Ì
+W * ADJ ADJ,SIM „⁄œ‰Ì
+W * DELM DELM °
+W * N N,SING,COM ¬»
+W * CON CON Ê
+W * N N,SING,COM,GEN ÂÊ«Ì
+W * ADJ ADJ,SIM œ·Å–Ì—
+W * CON CON Ê
+W * N N,PL,COM,GEN ›—¬Ê—œÂ Â«Ì
+W * N N,SING,COM,INDF „Õ·Ì
+W * ADJ ADJ,SIM „‰Õ’—
+W * P P »Â
+W * N N,SING,COM ›—œ
+W * V V,PRS,POS,3 „Ì »«‘œ
+W * P P »Â
+W * N N,PL,COM,GEN ”—„«ÌÂ ê–«—ÌÂ«Ì
+W * ADJ ADJ,SIM ﬂ·«‰
+W * CON CON Ê
+W * ADJ ADJ,SIM ¬„«œÂ
+W * N N,SING,NFL,GEN ”«Œ ‰
+W * N N,SING,COM,GEN “„Ì‰Â
+W * N N,PL,COM,GEN ›⁄«·Ì Â«Ì
+W * ADJ ADJ,SIM ›—Â‰êÌ
+W * N N,SING,COM ‰Ì«“
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * N N,SING,LOC,GEN «” «‰
+W * N N,SING,LOC,PR «—œ»Ì·
+W * P P »Â
+W * N N,SING,COM,GEN ·Õ«Ÿ
+W * N N,SING,NFL,GEN œ«‘ ‰
+W * N N,PL,NUM œÂÂ«
+W * N N,SING,COM,GEN «À—
+W * ADJ ADJ,SIM,GEN «—“‘„‰œ
+W * ADJ ADJ,SIM »«” «‰Ì
+W * DELM DELM °
+W * N N,PL,LOC,GEN ¬»ê—„Â«Ì
+W * ADJ ADJ,SIM,GEN „⁄œ‰Ì
+W * ADJ ADJ,SIM „ ‰Ê⁄
+W * DELM DELM °
+W * N N,PL,COM,GEN  ›—Ãê«Â Â«Ì
+W * ADJ ADJ,SIM “Ì»«
+W * CON CON Ê
+W * N N,SING,COM ¬»
+W * CON CON Ê
+W * N N,SING,COM,GEN ÂÊ«Ì
+W * ADJ ADJ,SIM „ÿ»Ê⁄
+W * DELM DELM °
+W * ADV ADV,GENR,TIME ”«·«‰Â
+W * ADJ ADJ,SIM,GEN Å–Ì—«Ì
+W * QUA QUA,GEN ÕœÊœ
+W * N N,SING,NUM œÊ
+W * N N,SING,NUM „Ì·ÌÊ‰
+W * CON CON Ê
+W * N N,SING,NUM 200
+W * N N,SING,NUM Â“«—
+W * N N,SING,COM „”«›—
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * N N,SING,COM,GEN œ—’œ
+W * ADJ ADJ,SIM,INDF »«·«ÌÌ
+W * P P «“
+W * DET DET «Ì‰
+W * N N,PL,COM „”«›—«‰
+W * P P œ—
+W * N N,SING,TIME,GEN ›’·
+W * N N,SING,COM ê—„«
+W * P P »Â
+W * DET DET «Ì‰
+W * N N,SING,LOC «” «‰
+W * V V,PRS,POS,6 „Ì ¬Ì‰œ
+W * CON CON Ê
+W * N N,SING,LOC,GEN ‘Â—
+W * N N,SING,LOC,PR ”—⁄Ì‰
+W * P P œ—
+W * N N,SING,COM,GEN œ«„‰Â
+W * N N,SING,LOC ﬂÊÂ
+W * N N,SING,NUM 1184
+W * MORP MORP,MADJ,GEN „ —Ì
+W * N N,SING,LOC,PR ”»·«‰
+W * P P »Â
+W * N N,SING,COM,GEN ⁄‰Ê«‰
+W * ADJ ADJ,SUP „Â„ —Ì‰
+W * N N,SING,COM,GEN „—ﬂ“
+W * ADJ ADJ,SIM,GEN ”Ì«Õ Ì
+W * N N,SING,LOC „‰ÿﬁÂ
+W * ADJ ADJ,SIM,GEN Å–Ì—«Ì
+W * ADJ ADJ,SUP »Ì‘ —Ì‰
+W * N N,SING,GR,GEN  ⁄œ«œ
+W * N N,PL,COM ê—œ‘ê—«‰
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * N N,SING,LOC,PR ﬁ‘„
+W * DELM DELM ‹
+W * P P »«
+W * N N,SING,COM,GEN  ‘ﬂÌ·
+W * N N,SING,COM,GEN ‘—ﬂ 
+W * ADJ ADJ,SIM,INDF „‘ —ﬂÌ
+W * N N,SING,COM,GEN „Ì«‰
+W * N N,SING,LOC,GEN „‰ÿﬁÂ
+W * ADJ ADJ,SIM,GEN ¬“«œ
+W * N N,SING,LOC,PR ﬁ‘„
+W * CON CON Ê
+W * N N,SING,COM,GEN ‘—ﬂ 
+W * ADJ ADJ,SIM,GEN ”‰ê«ÅÊ—Ì
+W * N N,SING,PR ê·Ê»«·
+W * N N,SING,COM «‰—éÌ
+W * DELM DELM °
+W * P P,GEN »—«Ì
+W * ADJ ADJ,ORD «Ê·Ì‰
+W * N N,SING,COM »«—
+W * N N,SING,COM ”ÊŒ  —”«‰Ì
+W * P P »Â
+W * N N,SING,COM,GEN »Œ‘
+W * ADJ ADJ,SIM,INDF ⁄„œÂ «Ì
+W * P P «“
+W * N N,PL,COM,GEN ﬂ‘ ÌÂ«Ì
+W * ADJ ADJ,SIM,GEN ⁄»Ê—Ì
+W * N N,SING,LOC Œ·ÌÃ
+W * N N,SING,LOC,PR ›«—”
+W * P P œ—
+W * N N,SING,COM,GEN Ã“Ì—Â
+W * N N,SING,LOC,PR ﬁ‘„
+W * N N,SING,COM «‰Ã«„
+W * V V,PRS,POS,3 „Ì ‘Êœ
+W * DELM DELM .
+W * P P »Â
+W * N N,SING,COM,GEN „ÊÃ»
+W * N N,SING,COM,GEN «„÷«Ì
+W * DET DET «Ì‰
+W * N N,SING,COM ﬁ—«—œ«œ
+W * N N,SING,COM,GEN ‘—ﬂ 
+W * N N,SING,PR ê·Ê»«·
+W * N N,SING,COM,GEN «‰—éÌ
+W * N N,SING,LOC,PR ”‰ê«ÅÊ—
+W * ADJ ADJ,SIM „ ⁄Âœ
+W * P P »Â
+W * N N,SING,COM »«“«—Ì«»Ì
+W * DELM DELM °
+W * N N,SING,COM,GEN  «„Ì‰
+W * N N,SING,COM ”—„«ÌÂ
+W * DELM DELM °
+W * N N,SING,COM,GEN Œ—Ìœ
+W * N N,SING,COM ﬂ‘ Ì
+W * CON CON Ê
+W * N N,SING,COM,GEN  «„Ì‰
+W * N N,PL,COM,GEN  ÃÂÌ“« 
+W * N N,SING,COM,GEN „Ê—œ
+W * N N,SING,COM,GEN ‰Ì«“
+W * DET DET «Ì‰
+W * N N,SING,COM ÿ—Õ
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 ‘œ
+W * DELM DELM .
+W * N N,SING,LOC,GEN „‰ÿﬁÂ
+W * ADJ ADJ,SIM,GEN ¬“«œ
+W * N N,SING,LOC,PR ﬁ‘„
+W * N N,SING,COM,GEN „”∆Ê·Ì 
+W * N N,SING,COM Å‘ Ì»«‰Ì
+W * DELM DELM °
+W * N N,SING,COM,GEN  ÂÌÂ
+W * N N,PL,COM „ÃÊ“Â«
+W * CON CON Ê
+W * N N,SING,COM,GEN «—«∆Â
+W * N N,PL,COM Œœ„« 
+W * RA RA —«
+W * P P »Â
+W * N N,SING,COM ⁄ÂœÂ
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 œ«‘ 
+W * DELM DELM .
+W * N N,SING,TIME ﬁ»·
+W * P P «“
+W * N N,SING,COM,GEN «„÷«Ì
+W * DET DET «Ì‰
+W * N N,SING,COM ﬁ—«—œ«œ
+W * DELM DELM °
+W * N N,SING,NUM œÊ
+W * N N,SING,CONT ›—Ê‰œ
+W * N N,SING,COM,GEN ﬂ‘ Ì
+W * ADJ ADJ,SIM Â“«— ‰Ì
+W * P P »Â
+W * N N,SING,COM,GEN ÿÊ—
+W * N N,SING,COM,INDF ¬“„«Ì‘Ì
+W * N N,SING,COM,GEN ”ÊŒ 
+W * N N,SING,COM,GEN „Ê—œ
+W * N N,SING,COM,GEN ‰Ì«“
+W * PRO PRO,R,XOD ŒÊœ
+W * RA RA —«
+W * P P «“
+W * N N,SING,COM ·‰ê—ê«Â
+W * N N,SING,COM,GEN Â‰ê«„
+W * CON CON ﬂÂ
+W * P P œ—
+W * N N,SING,NUM 9
+W * MORP MORP,MN,SING,GEN „«Ì·Ì
+W * N N,SING,LOC,PR ﬁ‘„
+W * ADJ ADJ,SIM Ê«ﬁ⁄
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * N N,SING,COM  «„Ì‰
+W * V V,PA,SIM,POS,6 ﬂ—œ‰œ
+W * DELM DELM .
+W * N N,SING,COM,GEN ”ÊŒ 
+W * N N,PL,COM ﬂ‘ ÌÂ«
+W * P P «“
+W * N N,PL,LOC,GEN Å«·«Ì‘ê«ÂÂ«Ì
+W * N N,SING,LOC,PR »‰œ—⁄»«”
+W * CON CON Ê
+W * N N,SING,LOC,PR ¬»«œ«‰
+W * N N,SING,COM  «„Ì‰
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 ‘œ
+W * DELM DELM .
+W * N N,SING,SURN „Â‰œ”
+W * N N,SING,PR,GEN »Â—Ê“
+W * N N,SING,PR »Ê‘Â—Ì
+W * N N,SING,COM,GEN „œÌ—⁄«„·
+W * N N,SING,LOC,GEN „‰ÿﬁÂ
+W * ADJ ADJ,SIM,GEN ¬“«œ
+W * N N,SING,LOC,PR ﬁ‘„
+W * P P œ—
+W * N N,PL,COM,GEN „—«”„
+W * N N,SING,COM,GEN «„÷«Ì
+W * DET DET «Ì‰
+W * N N,SING,COM ﬁ—«—œ«œ
+W * P P »«
+W * N N,SING,PR ·∆Ê‰
+W * N N,SING,PR ·Ì«‰ê
+W * N N,SING,COM,GEN „œÌ—⁄«„·
+W * N N,SING,COM,GEN ‘—ﬂ 
+W * N N,SING,PR ê·Ê»«·
+W * N N,SING,COM,GEN «‰—éÌ
+W * N N,SING,LOC,PR ”‰ê«ÅÊ—
+W * V V,PA,SIM,POS,3 ê› 
+W * DELM DELM :
+W * N N,SING,COM,GEN ÕÃ„
+W * N N,SING,COM ”ÊŒ  —”«‰Ì
+W * P P œ—
+W * DET DET «Ì‰
+W * N N,SING,LOC „‰ÿﬁÂ
+W * ADV ADV,GENR,TIME ”«·«‰Â
+W * N N,SING,NUM 6
+W * P P  «
+W * N N,SING,NUM 8
+W * N N,SING,NUM „Ì·ÌÊ‰
+W * N N,SING,COM  ‰
+W * N N,SING,COM ÅÌ‘ »Ì‰Ì
+W * ADJ ADJ,INO ‘œÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * PRO PRO,personal,SING,3 ÊÌ
+W * V V,PA,SIM,POS,3 «›“Êœ
+W * DELM DELM :
+W * P P »«
+W * N N,SING,COM,GEN «Ã—«Ì
+W * DET DET «Ì‰
+W * N N,SING,COM ÿ—Õ
+W * N N,SING,LOC,PR «Ì—«‰
+W * P P œ—
+W * N N,SING,COM,GEN „—Õ·Â
+W * ADJ ADJ,ORD ‰Œ” 
+W * V V,PRS,POS,3 „Ì  Ê«‰œ
+W * N N,SING,COM,INDF »Œ‘Ì
+W * P P «“
+W * N N,SING,COM,GEN ‰Ì«“
+W * N N,PL,COM ﬂ‘ ÌÂ«
+W * RA RA —«
+W * N N,SING,COM  «„Ì‰
+W * V V,SUB,POS,3 ﬂ‰œ
+W * CON CON Ê
+W * DET DET «Ì‰
+W * N N,SING,COM —ﬁ„
+W * P P œ—
+W * N N,SING,COM ¬Ì‰œÂ
+W * P P »Â
+W * N N,SING,COM  œ—ÌÃ
+W * N N,SING,COM «›“«Ì‘
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 Ì«› 
+W * DELM DELM .
+W * N N,SING,COM,GEN „œÌ—⁄«„·
+W * N N,SING,LOC,GEN „‰ÿﬁÂ
+W * ADJ ADJ,SIM,GEN ¬“«œ
+W * N N,SING,LOC,PR ﬁ‘„
+W * ADJ ADJ,SUP „Â„ —Ì‰
+W * N N,PL,COM,GEN „“Ì Â«Ì
+W * N N,SING,COM,GEN «Ã—«Ì
+W * DET DET «Ì‰
+W * N N,SING,COM,GEN ÿ—Õ
+W * RA RA —«
+W * N N,SING,COM,GEN ‰“œÌﬂÌ
+W * N N,SING,LOC,PR ﬁ‘„
+W * P P »Â
+W * N N,SING,COM,GEN ¬»—«Â
+W * ADJ ADJ,SIM »Ì‰ «·„··Ì
+W * DELM DELM °
+W * N N,SING,COM œ” —”Ì
+W * P P »Â
+W * N N,SING,COM,GEN ”ÊŒ 
+W * ADJ ADJ,SIM „‰«”»
+W * CON CON Ê
+W * ADJ ADJ,SIM «—“«‰
+W * CON CON Ê
+W * N N,SING,COM,GEN «—«∆Â
+W * N N,PL,COM,GEN Œœ„« 
+W * ADJ ADJ,SIM „ÿ·Ê»
+W * P P »Â
+W * N N,PL,COM ﬂ‘ ÌÂ«
+W * N N,SING,COM «⁄·«„
+W * V V,PA,SIM,POS,3 ﬂ—œ
+W * DELM DELM .
+W * N N,SING,PR »Ê‘Â—Ì
+W * P P »«
+W * N N,SING,COM «‘«—Â
+W * P P »Â
+W * PRO PRO,DEMO,SING «Ì‰
+W * CON CON ﬂÂ
+W * N N,SING,LOC,GEN „‰ÿﬁÂ
+W * ADJ ADJ,SIM,GEN ¬“«œ
+W * N N,SING,LOC,PR ﬁ‘„
+W * V V,PRS,POS,3 „Ì  Ê«‰œ
+W * N N,SING,COM ¬–ÊﬁÂ
+W * DELM DELM °
+W * N N,SING,COM ¬»
+W * CON CON Ê
+W * N N,PL,COM,GEN ·Ê«“„
+W * ADJ ADJ,SIM,GEN ÌœﬂÌ
+W * N N,SING,COM,GEN „Ê—œ
+W * N N,SING,COM,GEN ‰Ì«“
+W * N N,PL,COM ﬂ‘ ÌÂ«
+W * RA RA —«
+W * N N,SING,COM,GEN  «„Ì‰
+W * V V,SUB,POS,3 ﬂ‰œ
+W * DELM DELM °
+W * N N,SING,COM Œ«ÿ—‰‘«‰
+W * V V,PA,SIM,POS,3 ﬂ—œ
+W * DELM DELM :
+W * N N,SING,COM ”ÊŒ  —”«‰Ì
+W * P P »Â
+W * N N,PL,COM ﬂ‘ ÌÂ«
+W * N N,SING,COM,INDF ·ÿ„Â «Ì
+W * P P »Â
+W * N N,SING,COM,GEN „ÕÌÿ
+W * N N,SING,COM “Ì” 
+W * N N,SING,COM Ê«—œ
+W * V V,AUX,FEA,NEG,3 ‰ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 ﬂ—œ
+W * DELM DELM .
+W * N N,SING,LOC,PR »‰œ—«‰“·Ì
+W * DELM DELM ‹
+W * N N,SING,COM,GEN ‘Â—œ«—
+W * N N,SING,LOC,PR »‰œ—«‰“·Ì
+W * V V,PA,SIM,POS,3 ê› 
+W * DELM DELM :
+W * ADV ADV,GENR,TIME «„”«·
+W * N N,SING,NUM ‘‘
+W * N N,SING,NUM „Ì·Ì«—œ
+W * N N,SING,CONT —Ì«·
+W * N N,SING,COM,GEN ’—›
+W * N N,PL,COM,GEN ÿ—ÕÂ«Ì
+W * ADJ ADJ,SIM,GEN ⁄„—«‰Ì
+W * DET DET «Ì‰
+W * N N,SING,LOC ‘Â—
+W * V V,PRS,POS,3 „Ì ‘Êœ
+W * DELM DELM .
+W * N N,SING,PR ‘„” «·œÌ‰
+W * N N,SING,PR ÅÊ—»«ﬁ—Ì
+W * N N,SING,COM,GEN »ÊœÃÂ
+W * N N,SING,COM,GEN ‘Â—œ«—Ì
+W * N N,SING,LOC,PR »‰œ—«‰“·Ì
+W * RA RA —«
+W * P P œ—
+W * N N,SING,TIME,GEN ”«·
+W * ADJ ADJ,SIM Ã«—Ì
+W * DELM DELM °
+W * N N,SING,NUM 21
+W * N N,SING,NUM „Ì·Ì«—œ
+W * N N,SING,CONT —Ì«·
+W * N N,SING,COM «⁄·«„
+W * V V,PA,SIM,POS,3 ﬂ—œ
+W * DELM DELM .
+W * PRO PRO,personal,SING,3 ÊÌ
+W * V V,PA,SIM,POS,3 ê› 
+W * DELM DELM :
+W * ADJ ADJ,SIM »Ì‘
+W * P P «“
+W * N N,SING,NUM Ìﬂ
+W * N N,SING,NUM ’œ
+W * N N,SING,COM,GEN ÿ—Õ
+W * ADJ ADJ,SIM ⁄„—«‰Ì
+W * P P œ—
+W * N N,PL,COM,GEN “„Ì‰Â Â«Ì
+W * N N,SING,COM,GEN ¬”›«· 
+W * N N,PL,COM „⁄«»—
+W * ADJ ADJ,SIM ⁄„Ê„Ì
+W * DELM DELM °
+W * N N,PL,LOC ﬂÊçÂ Â«
+W * DELM DELM °
+W * N N,PL,COM ŒÌ«»«‰Â«
+W * DELM DELM °
+W * N N,SING,COM,GEN «ÌÃ«œ
+W * N N,SING,COM,GEN ›÷«Ì
+W * ADJ ADJ,SIM ”»“
+W * DELM DELM °
+W * N N,SING,COM “Ì»«”«“Ì
+W * DELM DELM °
+W * N N,SING,COM ”‰ê
+W * N N,SING,COM,GEN ›—‘
+W * N N,PL,COM ŒÌ«»«‰Â«
+W * DELM DELM °
+W * N N,SING,COM ÃœÊ· ê–«—Ì
+W * CON CON Ê
+W * N N,SING,COM,GEN “Ì—”«“Ì
+W * N N,PL,COM ŒÌ«»«‰Â«
+W * P P œ—
+W * N N,SING,COM,GEN œ” 
+W * N N,SING,COM «Ã—«
+W * V V,PRE,SIM «” 
+W * CON CON ﬂÂ
+W * ADV ADV,GENR,TIME  «ﬂ‰Ê‰
+W * N N,SING,NUM 34
+W * N N,SING,COM,GEN œ—’œ
+W * PRO PRO,DEMO,SING ¬‰
+W * N N,SING,COM «‰Ã«„
+W * ADJ ADJ,INO ‘œÂ
+W * V V,PRE,SIM «” 
+W * DELM DELM .
+W * PRO PRO,personal,SING,3 ÊÌ
+W * V V,PA,SIM,POS,3 «›“Êœ
+W * DELM DELM :
+W * N N,SING,NUM 52
+W * N N,SING,NUM Â“«—
+W * N N,SING,CONT «’·Â
+W * N N,SING,COM ‰Â«·
+W * ADV ADV,GENR,TIME  «ﬂ‰Ê‰
+W * P P œ—
+W * N N,SING,LOC,PR «‰“·Ì
+W * ADJ ADJ,INO ﬂ«‘ Â
+W * ADJ ADJ,INO ‘œÂ
+W * CON CON Ê
+W * P P  «
+W * N N,SING,ORD,GEN Å«Ì«‰
+W * N N,SING,TIME ”«·
+W * QUA QUA,GEN ÕœÊœ
+W * N N,SING,NUM 42
+W * N N,SING,NUM Â“«—
+W * N N,SING,COM «’·Â
+W * P P œ—
+W * N N,SING,COM,GEN ”ÿÕ
+W * N N,SING,LOC ‘Â—
+W * ADJ ADJ,INO ﬂ«‘ Â
+W * V V,AUX,FEA,POS,3 ŒÊ«Âœ
+W * V V,PA,SIM,POS,3 ‘œ
+W * DELM DELM .
+W * N N,SING,COM,GEN ‘Â—œ«—
+W * N N,SING,LOC,PR »‰œ—«‰“·Ì
+W * V V,PA,SIM,POS,3 ê› 
+W * DELM DELM :
+W * N N,SING,GR,GEN  ⁄œ«œ
+W * N N,PL,COM,INDF „”«›—«‰Ì
+W * CON CON ﬂÂ
+W * ADV ADV,GENR,TIME ”«·Ì«‰Â
+W * P P,GEN Ê«—œ
+W * N N,SING,LOC,GEN ‘Â—
+W * N N,SING,LOC,PR «‰“·Ì
+W * V V,PRS,POS,6 „Ì ‘Ê‰œ
+W * ADJ ADJ,SIM »Ì‘
+W * P P «“
+W * N N,SING,NUM 1
+W * DELM DELM /
+W * N N,SING,NUM 5
+W * N N,SING,NUM „Ì·ÌÊ‰
+W * N N,SING,COM ‰›—
+W * V V,PRS,POS,6 „Ì »«‘‰œ
+W * DELM DELM .
+W * PRO PRO,personal,SING,3 ÊÌ
+W * V V,PA,SIM,POS,3 «›“Êœ
+W * DELM DELM :
+W * N N,SING,NUM,INDF ÌﬂÌ
+W * P P «“
+W * N N,PL,COM,GEN «Âœ«›
+W * N N,SING,COM ‘Â—œ«—Ì
+W * N N,SING,COM «ÌÃ«œ
+W * CON CON Ê
+W * N N,SING,COM,GEN  ﬁÊÌ 
+W * N N,SING,COM,GEN »«“«—çÂ
+W * ADJ ADJ,SIM —Ê”Ì
+W * P P œ—
+W * N N,SING,COM,GEN »‰œ—
+W * N N,SING,LOC,PR «‰“·Ì
+W * V V,PRS,POS,3 „Ì »«‘œ
+W * CON CON Ê
+W * N N,SING,COM ﬁ—«—
+W * V V,PRE,SIM «” 
+W * P P »Â
+W * N N,SING,COM “ÊœÌ
+W * N N,PL,COM ‘‰«Ê—Â«
+W * P P œ—
+W * QUA QUA Â—
+W * N N,SING,TIME „«Â
+W * N N,SING,NUM Ìﬂ
+W * N N,SING,TIME Â› Â
+W * P P »Â
+W * N N,SING,COM,GEN ÿÊ—
+W * ADJ ADJ,SIM „” ﬁÌ„
+W * N N,SING,COM ﬂ«·«
+W * P P «“
+W * N N,SING,LOC,PR »«ﬂÊ
+W * P P,GEN Ê«—œ
+W * N N,SING,COM,GEN »‰œ—
+W * N N,SING,LOC,PR «‰“·Ì
+W * V V,SUB,POS,6 ﬂ‰‰œ
+W * DELM DELM .

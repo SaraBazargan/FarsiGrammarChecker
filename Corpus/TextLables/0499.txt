@@ -1,0 +1,104 @@
+Sub * SUBJ SUBJ !«ﬁ ’«œÌ!
+W * N N,SING,LOC,PR  Â—«‰
+W * DELM DELM ‹
+W * N N,SING,COM,GEN Ê«Õœ
+W * ADJ ADJ,SIM,GEN „—ﬂ“Ì
+W * N N,SING,COM Œ»—
+W * DELM DELM :
+W * N N,SING,COM,GEN —∆Ì”
+W * ADJ ADJ,SUP »“—ê —Ì‰
+W * N N,SING,LOC,GEN ﬂ«—Œ«‰Â
+W * N N,PL,COM ·»‰Ì« 
+W * P P œ—
+W * N N,SING,LOC,PR é«Å‰
+W * DELM DELM °
+W * P P »Â
+W * N N,SING,COM œ·Ì·
+W * ADJ ADJ,SIM ¬·ÊœÂ
+W * N N,SING,NFL,GEN »Êœ‰
+W * N N,SING,COM,GEN ‘Ì—
+W * N N,SING,COM,AFF,3 ﬂ«—Œ«‰Â «‘
+W * DELM DELM °
+W * P P «“
+W * N N,SING,GR,GEN „—œ„
+W * DET DET «Ì‰
+W * N N,SING,LOC ﬂ‘Ê—
+W * N N,SING,COM ⁄–—ŒÊ«ÂÌ
+W * V V,PA,SIM,POS,3 ﬂ—œ
+W * DELM DELM .
+W * N N,SING,COM,GEN ‘Ì—
+W * ADJ ADJ,SIM,GEN  Ê·ÌœÌ
+W * DET DET «Ì‰
+W * N N,SING,LOC ﬂ«—Œ«‰Â
+W * P P  «
+W * ADV ADV,GENR,TIME «„—Ê“
+W * N N,SING,COM,GEN „ÊÃ»
+W * N N,SING,COM,GEN „”„Ê„Ì 
+W * N N,SING,NUM 7800
+W * N N,SING,COM ‰›—
+W * ADJ ADJ,INO ‘œÂ
+W * V V,PRE,SIM «” 
+W * CON CON ﬂÂ
+W * QUA QUA  ⁄œ«œÌ
+W * P P «“
+W * PRO PRO,DEMO,PL ¬‰Â«
+W * ADV ADV,GENR,SIM Õ Ì
+W * ADJ ADJ,SIM »” —Ì
+W * V V,PA,NAR,POS,6 ‘œÂ «‰œ
+W * DELM DELM .
+W * P P »Â
+W * N N,SING,COM,GEN ê“«—‘
+W * N N,SING,PR —ÊÌ —
+W * DELM DELM °
+W * N N,PL,COM,INDF «›—«œÌ
+W * CON CON ﬂÂ
+W * P P œ—
+W * N N,SING,NUM Â‘ 
+W * N N,SING,LOC,GEN «” «‰
+W * ADJ ADJ,SIM,GEN €—»Ì
+W * N N,SING,LOC,PR é«Å‰
+W * P P «“
+W * N N,SING,COM,GEN ‘Ì—
+W * DET DET «Ì‰
+W * N N,SING,LOC ﬂ«—Œ«‰Â
+W * N N,SING,COM «” ›«œÂ
+W * V V,PA,NAR,POS,6 ﬂ—œÂ «‰œ
+W * N N,SING,COM ‘ﬂ«Ì 
+W * P P «“
+W * N N,SING,COM,GEN œ—œ
+W * N N,SING,COM „⁄œÂ
+W * DELM DELM °
+W * N N,SING,COM «” ›—«€
+W * CON CON Ê
+W * N N,PL,COM «”Â«·
+W * V V,PRS,POS,6 œ«—‰œ
+W * DELM DELM .
+W * N N,SING,COM,GEN —∆Ì”
+W * N N,SING,LOC,GEN ﬂ«—Œ«‰Â
+W * N N,SING,COM,GEN ‘Ì—
+W * N N,SING,COM «”‰Ê»—‰œ
+W * P P œ—
+W * N N,SING,LOC,PR é«Å‰
+W * ADJ ADJ,INO ê› Â
+W * V V,PRE,SIM «” 
+W * DELM DELM °
+W * DET DET «Ì‰
+W * N N,SING,COM „‘ﬂ·
+W * ADJ ADJ,SIM „„ﬂ‰
+W * V V,PRE,SIM «” 
+W * ADJ ADJ,SIM ‰«‘Ì
+W * P P «“
+W * N N,SING,COM,GEN »«ﬂ —Ì
+W * ADJ ADJ,SIM „ÊÃÊœ
+W * P P œ—
+W * N N,SING,COM,GEN œ—ÌçÂ
+W * N N,SING,NUM Ìﬂ
+W * N N,SING,COM „Œ“‰
+W * P P œ—
+W * N N,SING,LOC,GEN ﬂ«—Œ«‰Â
+W * N N,SING,COM,GEN »” Â »‰œÌ
+W * N N,SING,COM ‘Ì—
+W * P P œ—
+W * N N,SING,LOC,GEN ‘Â—
+W * N N,SING,LOC,PR «Ê”«ﬂ«
+W * V V,SUB,POS,3 »«‘œ

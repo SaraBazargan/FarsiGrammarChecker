@@ -1,0 +1,2 @@
+E:\TextCorpusDisk\Statistics\f61.txt +  ==> E:\TextCorpusDisk\Statistics\P61.txt
+E:\TextCorpusDisk\Statistics\f81.txt +  ==> E:\TextCorpusDisk\Statistics\P81.txt
